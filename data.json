@@ -1,0 +1,3183 @@
+{
+  "title": "Daily X narrative digest - 2026-10-26",
+  "date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "updated": "2026-10-27T18:37:02+08:00",
+  "virals_title": "Indie / AI outsiders · last 48h",
+  "brand_title": "X Virality Score",
+  "brand_handle": "@sinaniscoding",
+  "hits": [
+    {
+      "name": "Firecrawl",
+      "handle": "@firecrawl",
+      "views": 8320,
+      "url": "https://x.com/firecrawl/status/2114746140734173378",
+      "posted_at": "2026-10-26T15:49:04.000Z",
+      "media": "video",
+      "hook": "a16z Speedrun founders get 2.5x Firecrawl credits for a year.",
+      "text": "Our a16z @speedrun deal is live 🔥\n\nSpeedrun founders get 2.5x their monthly credits for a full year, plus a Slack channel with our team.\n\nGive your agents the web and beyond with Alexandria from day one.\n\nhttps://firecrawl.dev/a16z-speedrun",
+      "video_tip": "8-12s screen capture: open the Speedrun deal page, hard-cut to the 2.5x credits line, end on Alexandria.",
+      "followers": 94423,
+      "id": "2114746140734173378",
+      "original_en": "Our a16z @speedrun deal is live 🔥\n\nSpeedrun founders get 2.5x their monthly credits for a full year, plus a Slack channel with our team.\n\nGive your agents the web and beyond with Alexandria from day one.",
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agent",
+          "Slack"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Cold email vs agent outreach"
+      }
+    }
+  ],
+  "virals": [
+    {
+      "name": "Cindy App",
+      "handle": "@making_cindy",
+      "views": 2147439,
+      "url": "https://x.com/making_cindy/status/2114627189119566266",
+      "posted_at": "2026-10-26T07:56:24.000Z",
+      "media": "text",
+      "hook": "Cindy hit GitHub #1 as one open-source agent for Claude Code and Codex.",
+      "text": "Cindy made today's GitHub top 1 🚀 One open-source agent that brings Claude Code, Codex and other harnesses together to do real work on your desktop and phone. Open source and free 👉 https://github.com/makecindy/cindy",
+      "video_tip": "Still of GitHub trending #1, then 6s screencast opening Cindy on desktop.",
+      "followers": 2133,
+      "id": "2114627189119566266",
+      "original_en": "Cindy made today's GitHub top 1 🚀 One open-source agent that brings Claude Code, Codex and other harnesses together to do real work on your desktop and phone. Open source and free 👉",
+      "board_rank": 1,
+      "draft_en": "GitHub just crowned an open-source agent that wires Claude Code Codex and other harnesses into one desktop-and-phone stack.\n\nCindy hit #1 trending. One skill that does real work on your machine, free to run.\n\nIf you still juggle separate coding agents, this is the consolidation play.",
+      "draft_keywords": [
+        "agent",
+        "Claude Code Codex",
+        "skill"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.093,
+        "word_overlap": 0.423,
+        "max_copied_run": 6
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "text",
+        "note": "followers: no data (estimate from reach >= 500K)",
+        "topic": "Cold email vs agent outreach"
+      }
+    },
+    {
+      "name": "Pri",
+      "handle": "@solopribuilds",
+      "views": 840083,
+      "url": "https://x.com/solopribuilds/status/2114782299220828556",
+      "posted_at": "2026-10-26T18:12:45.000Z",
+      "media": "text",
+      "hook": "Fiverr and Upwork are dead - how are people freelancing?",
+      "text": "fiverr is dead\nupwork is dead\n\nhow are ppl freelancing",
+      "video_tip": "Text card, three lines, bold: fiverr / upwork / how are people freelancing.",
+      "followers": 6553,
+      "id": "2114782299220828556",
+      "original_en": "fiverr is dead\nupwork is dead\n\nhow are ppl freelancing",
+      "board_rank": 2,
+      "draft_en": "Fiverr feels dead. Upwork feels dead.\n\nSame week the timeline keeps chanting that SaaS is dead too.\n\nSo how are people freelancing - what channel still sends paid work?",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.308,
+        "max_copied_run": 2
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data (estimate from reach >= 500K)",
+        "topic": null
+      }
+    },
+    {
+      "name": "Treg",
+      "handle": "@treg_ai",
+      "views": 464597,
+      "url": "https://x.com/treg_ai/status/2114674262179188755",
+      "posted_at": "2026-10-26T11:03:27.000Z",
+      "media": "video",
+      "hook": "People-search for agents at $0.0089/lead, open source, no $600 Clay bill.",
+      "text": "Introducing Jev @typesafeai powered people-search\n\nJust $0.0089/lead, No more $600 subscriptions,\n\nTry it at https://treg.to/people-search\n\n- 85% cheaper than Clay\n- #1 on people search bench accuracy\n- Plugin to any agent to find anyone\n\nFully open source, 0% markup\n\nGit Repo below 👇",
+      "video_tip": "60s product video already on the post; cut a 12s highlight of the $0.0089 price and agent plug-in.",
+      "followers": 6980,
+      "id": "2114674262179188755",
+      "original_en": "Introducing Jev @typesafeai powered people-search\n\nJust $0.0089/lead, No more $600 subscriptions,\n\nTry it at\n\n- 85% cheaper than Clay\n- #1 on people search bench accuracy\n- Plugin to any agent to find anyone\n\nFully open source, 0% markup\n\nGit Repo below 👇",
+      "board_rank": 3,
+      "draft_en": "People-search for any agent just dropped to $0.0089 per lead.\n\nJev from @typesafeai powers Treg: open source, 0% markup, pitched as 85% cheaper than Clay and #1 on their people-search bench.\n\nNo more $600 subscriptions if a plugin call finds the contact.",
+      "draft_keywords": [
+        "agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.077,
+        "word_overlap": 0.591,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Cold email vs agent outreach"
+      }
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 212733,
+      "url": "https://x.com/JackEllis/status/2114527426588066075",
+      "posted_at": "2026-10-26T01:19:59.000Z",
+      "media": "text",
+      "hook": "SaaS clone wars: Beehiiv clone gets cloned, then released for free.",
+      "text": "Someone on here clones Beehiv because they think it’s too expensive but then someone else clones that person’s SaaS because they think it’s too expensive. And then someone else clones this new person’s product and releases it for free. I can’t stop laughing.",
+      "video_tip": "Whiteboard three boxes: clone → clone of clone → free release. 8s.",
+      "followers": 36220,
+      "id": "2114527426588066075",
+      "original_en": "Someone on here clones Beehiv because they think it’s too expensive but then someone else clones that person’s SaaS because they think it’s too expensive. And then someone else clones this new person’s product and releases it for free. I can’t stop laughing.",
+      "board_rank": 4,
+      "draft_en": "Watch the SaaS clone loop on X:\n\nSomeone clones Beehiiv because the bill feels high.\nSomeone else clones that clone for the same reason.\nThen a third person ships the free version.\n\nI keep laughing because the race to zero is the product now.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.024,
+        "word_overlap": 0.286,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "SaaS pricing undercut"
+      }
+    },
+    {
+      "name": "Francois de Fitte",
+      "handle": "@francoisdefitte",
+      "views": 210678,
+      "url": "https://x.com/francoisdefitte/status/2114789312432943180",
+      "posted_at": "2026-10-26T18:40:37.000Z",
+      "media": "video",
+      "hook": "Map of Bay Area cafes where founders actually meet VCs.",
+      "text": "made a map of Bay Area cafes where you’ve got the best shot at meeting VCs (and maybe raising your next round)\n\ncheck it out: https://meetvc.cafe",
+      "video_tip": "Use the post's map walkthrough; cut to one pin with a tweet screenshot.",
+      "followers": 1690,
+      "id": "2114789312432943180",
+      "original_en": "made a map of Bay Area cafes where you’ve got the best shot at meeting VCs (and maybe raising your next round)\n\ncheck it out:",
+      "board_rank": 5,
+      "draft_en": "Bay Area founders still close rounds in cafes, not only in DMs.\n\nSomeone mapped the spots where you have the best shot at meeting VCs - each pin backed by a real tweet.\n\nOpen meetvc.cafe before the next SF trip if you are raising a SaaS round the in-person way.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.065,
+        "word_overlap": 0.348,
+        "max_copied_run": 6
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Dan Kulkov",
+      "handle": "@DanKulkov",
+      "views": 144625,
+      "url": "https://x.com/DanKulkov/status/2114334359834722628",
+      "posted_at": "2026-10-25T12:32:48.000Z",
+      "media": "video",
+      "hook": "New SaaS made $1000 in 1 day - build-in-public revenue video.",
+      "text": "my new saas made $1000 in 1 day",
+      "video_tip": "Trim the long video to the Stripe/revenue moment; open with the $1000 line.",
+      "followers": 51879,
+      "id": "2114334359834722628",
+      "original_en": "my new saas made $1000 in 1 day",
+      "board_rank": 6,
+      "draft_en": "One day. One new SaaS. $1000 in.\n\nThat is the build-in-public receipt making the rounds - video proof, not a vague MRR screenshot.\n\nWhether you buy the narrative or not, the format is clear: ship, show the money, move on.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.1,
+        "max_copied_run": 2
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "SaaS pricing undercut"
+      }
+    },
+    {
+      "name": "Viktor Oddy",
+      "handle": "@viktoroddy",
+      "views": 98640,
+      "url": "https://x.com/viktoroddy/status/2114684257109254434",
+      "posted_at": "2026-10-26T11:43:10.000Z",
+      "media": "video",
+      "hook": "MotionSites skill: 700+ designs so agents stop shipping AI slop sites.",
+      "text": "The MotionSites skill is live 🚀\n\nI turned 700+ of my best website designs into one skill.\n\nInstall it and your agent stops making generic AI slop and starts building cinematic, animated sites like these.\n\nWorks with Claude Code, Codex, Cursor or any agent.\n\nFree and open source:",
+      "video_tip": "12s montage of the sample sites from the video, end on install command.",
+      "followers": 74524,
+      "id": "2114684257109254434",
+      "original_en": "The MotionSites skill is live 🚀\n\nI turned 700+ of my best website designs into one skill.\n\nInstall it and your agent stops making generic AI slop and starts building cinematic, animated sites like these.\n\nWorks with Claude Code, Codex, Cursor or any agent.\n\nFree and open source:",
+      "board_rank": 7,
+      "draft_en": "Purple template sites are what most agents spit out by default.\n\nMotionSites packs 700+ real website designs into one skill. Drop it into Claude Code Codex or Cursor and you get cinematic, animated pages instead of generic AI slop.\n\nFree and open source.",
+      "draft_keywords": [
+        "agent",
+        "skill",
+        "Claude Code Codex"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.075,
+        "word_overlap": 0.63,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agent",
+          "skill"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Cold email vs agent outreach"
+      }
+    },
+    {
+      "name": "Dan Kulkov",
+      "handle": "@DanKulkov",
+      "views": 26316,
+      "url": "https://x.com/DanKulkov/status/2114679669480177795",
+      "posted_at": "2026-10-26T11:24:56.000Z",
+      "media": "text",
+      "hook": "Why pay $600/mo when agent people-search is $2?",
+      "text": "💀 SaaS died in October\n\nwhy would you pay $600/mo for tool\n\nwhen you can pay $2 (two dollars)?\n\nrip monthly subscriptions 🥀\n\nyou won't be missed",
+      "video_tip": "Split screen: $600 Clay invoice vs $2 agent call. 8s.",
+      "followers": 51879,
+      "id": "2114679669480177795",
+      "original_en": "💀 SaaS died in October\n\nwhy would you pay $600/mo for tool\n\nwhen you can pay $2 (two dollars)?\n\nrip monthly subscriptions 🥀\n\nyou won't be missed",
+      "board_rank": 8,
+      "draft_en": "October's hot take: SaaS died when a $600/mo tool got undercut by a $2 agent call.\n\nWhy renew the fat subscription if people-search plugs into any agent for pocket change?\n\nMonthly plans will not be missed by teams that can swap price for a plugin.",
+      "draft_keywords": [
+        "SaaS",
+        "agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.25,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "SaaS pricing undercut"
+      }
+    },
+    {
+      "name": "Pri",
+      "handle": "@solopribuilds",
+      "views": 25721,
+      "url": "https://x.com/solopribuilds/status/2114466720307876260",
+      "posted_at": "2026-10-25T21:18:45.000Z",
+      "media": "text",
+      "hook": "Content, freelancing, and SaaS are all 'dead' - what now?",
+      "text": "content creation is dead\nfreelancing is dead\nsaas is dead\n\nwhat are we supposed to do now",
+      "video_tip": "Text card stack of three 'dead' lines, then the question.",
+      "followers": 6553,
+      "id": "2114466720307876260",
+      "original_en": "content creation is dead\nfreelancing is dead\nsaas is dead\n\nwhat are we supposed to do now",
+      "board_rank": 9,
+      "draft_en": "The timeline buried three careers in one thread: creators, freelancers, and SaaS founders.\n\nIf every lane is a funeral post, what do you ship tomorrow?\n\nPick one channel that still compounds and ignore the obituaries.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.053,
+        "max_copied_run": 1
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "SaaS pricing undercut"
+      }
+    },
+    {
+      "name": "NetNetCap",
+      "handle": "@NetNetCap",
+      "views": 21687,
+      "url": "https://x.com/NetNetCap/status/2114745753034018893",
+      "posted_at": "2026-10-26T15:47:32.000Z",
+      "media": "text",
+      "hook": "Net Forge: private project to shipped multiplayer agent game builder.",
+      "text": "Shareholders,\n\nFor the last few weeks we have been building Net Forge, and this week it went from a private project to something any developer, or any AI agent, can pick up and use.\n\nHere is what that means and why we think it matters.\n\nMore and more games start as a sentence https://t.co/4IQXXhoKwr",
+      "video_tip": "Screen: agent prompt → live multiplayer lobby. 10s.",
+      "followers": 0,
+      "id": "2114745753034018893",
+      "original_en": "Shareholders,\n\nFor the last few weeks we have been building Net Forge, and this week it went from a private project to something any developer, or any AI agent, can pick up and use.\n\nHere is what that means and why we think it matters.\n\nMore and more games start as a sentence",
+      "board_rank": 10,
+      "draft_en": "Net Forge left private alpha this week.\n\nA developer - or an AI agent - can spin up a multiplayer browser game from a single sentence.\n\nThat is the shareholder pitch: games start as prompts, and the harness is now public.",
+      "draft_keywords": [
+        "AI agent",
+        "agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.421,
+        "max_copied_run": 3
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Cold email vs agent outreach"
+      }
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 16220,
+      "url": "https://x.com/JackEllis/status/2114730117939269852",
+      "posted_at": "2026-10-26T14:45:24.000Z",
+      "media": "text",
+      "hook": "Ralph Lauren polo joke: import from China, print horse, sell for $5.",
+      "text": "I got tired of paying $100 for Ralph Lauren polos so I have imported 100 shirts from China and I’m printing my own horse logo on them. \n\nSelling them for $5 each. \n\nRalph Lauren is dead.",
+      "video_tip": "Meme still: $100 polo vs $5 horse logo. No need for video.",
+      "followers": 36220,
+      "id": "2114730117939269852",
+      "original_en": "I got tired of paying $100 for Ralph Lauren polos so I have imported 100 shirts from China and I’m printing my own horse logo on them. \n\nSelling them for $5 each. \n\nRalph Lauren is dead.",
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Rob Hallam",
+      "handle": "@robj3d3",
+      "views": 15277,
+      "url": "https://x.com/robj3d3/status/2114726059149271438",
+      "posted_at": "2026-10-26T14:29:16.000Z",
+      "media": "text",
+      "hook": "A lot of people are about to become very rich (Anthropic quote).",
+      "text": "A lot of people are about to become very very rich.\n\nAlso we’ll get Fable 5.5 🥳",
+      "video_tip": "Talking-head reaction cut, 6s, end on the quote card.",
+      "followers": 67430,
+      "id": "2114726059149271438",
+      "original_en": "A lot of people are about to become very very rich.\n\nAlso we’ll get Fable 5.5 🥳",
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Dan Kulkov",
+      "handle": "@DanKulkov",
+      "views": 12826,
+      "url": "https://x.com/DanKulkov/status/2114729786837017075",
+      "posted_at": "2026-10-26T14:44:05.000Z",
+      "media": "image",
+      "hook": "Wow Keywords: 104 licenses, $7102 in 48 hours.",
+      "text": "https://wowkeywords.com 48 hours later 🚨\n\n104 licenses sold = $7102 in revenue\n\nfull focus on making product better!\n\n📊 reworked popularity/difficulty formula\n💻 windows & intel mac support\n📀 import from Astro\n🧑‍💻 multiple apple developer accounts\n🏎️ faster metrics fetch\n🤖 fixed ai subscription connection issues\n👾 huge improvements of MCP\n👀 UI polished\n🐞 tons of bug fixed\n\ncrazy 2 days\n\nTHANK YOU!!!",
+      "video_tip": "Zoom the revenue screenshot; overlay 104 licenses / $7102.",
+      "followers": 51879,
+      "id": "2114729786837017075",
+      "original_en": "48 hours later 🚨\n\n104 licenses sold = $7102 in revenue\n\nfull focus on making product better!\n\n📊 reworked popularity/difficulty formula\n💻 windows & intel mac support\n📀 import from Astro\n🧑‍💻 multiple apple developer accounts\n🏎️ faster metrics fetch\n🤖 fixed ai subscription connection issues\n👾 huge improvements of MCP\n👀 UI polished\n🐞 tons of bug fixed\n\ncrazy 2 days\n\nTHANK YOU!!!",
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 12707,
+      "url": "https://x.com/JackEllis/status/2114782509879951615",
+      "posted_at": "2026-10-26T18:13:35.000Z",
+      "media": "image",
+      "hook": "Mythos audit of 'free self-hosted' software - it's slop.",
+      "text": "I asked Mythos to audit this \"free, self-hosted\" software. It's slop. Be careful what you install.",
+      "video_tip": "Show the audit screenshot, highlight one red finding. 8s.",
+      "followers": 36220,
+      "id": "2114782509879951615",
+      "original_en": "I asked Mythos to audit this \"free, self-hosted\" software. It's slop. Be careful what you install.",
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Rob Hallam",
+      "handle": "@robj3d3",
+      "views": 12225,
+      "url": "https://x.com/robj3d3/status/2114798653156237325",
+      "posted_at": "2026-10-26T19:17:44.000Z",
+      "media": "text",
+      "hook": "Fable 5.5 tease aimed at Anthropic after OpenAI news.",
+      "text": "Fable 5.5 is gonna mog this so unbelievably hard.\n\nCome on @AnthropicAI you know you want to.",
+      "video_tip": "Text card with Fable 5.5, soft zoom. 5s.",
+      "followers": 67430,
+      "id": "2114798653156237325",
+      "original_en": "Fable 5.5 is gonna mog this so unbelievably hard.\n\nCome on @AnthropicAI you know you want to.",
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Ridark",
+      "handle": "@ridark_eth",
+      "views": 7009,
+      "url": "https://x.com/ridark_eth/status/2114470513351221292",
+      "posted_at": "2026-10-25T21:33:50.000Z",
+      "media": "text",
+      "hook": "Coding agent still can't open an issue - Claude Code $20/mo waste.",
+      "text": "DAMN. YOUR CODING AGENT STILL CAN'T OPEN AN ISSUE?\n\nClaude Code at $20/month. every call the agent wastes reaching for a tool it can't grab eats your plan limit for nothing\n\none config line per server replaces a custom integration. 476k stars across the ten. markitdown alone https://t.co/Ou9pLYhWrU https://t.co/58Ywn77Nwj",
+      "video_tip": "Terminal: agent fails to open GitHub issue, then install fix. 10s.",
+      "followers": 15340,
+      "id": "2114470513351221292",
+      "original_en": "DAMN. YOUR CODING AGENT STILL CAN'T OPEN AN ISSUE?\n\nClaude Code at $20/month. every call the agent wastes reaching for a tool it can't grab eats your plan limit for nothing\n\none config line per server replaces a custom integration. 476k stars across the ten. markitdown alone",
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "Cold email vs agent outreach"
+      }
+    },
+    {
+      "name": "Mattbuilds",
+      "handle": "@am56ay",
+      "views": 5688,
+      "url": "https://x.com/am56ay/status/2114320189340656118",
+      "posted_at": "2026-10-25T11:36:29.000Z",
+      "media": "video",
+      "hook": "Loudship live on Product Hunt - finds Reddit/Bluesky/HN demand.",
+      "text": "🚀 TODAY IS THE DAY.\n\nAfter months of building, Loudship is officially LIVE on Product Hunt!\n\nI built Loudship because I was tired of spending hours looking for potential customers.\n\nNow it finds conversations on Reddit, Bluesky & Hacker News where people are looking for products",
+      "video_tip": "Use the PH launch clip; cut to one found Reddit thread.",
+      "followers": 425,
+      "id": "2114320189340656118",
+      "original_en": "🚀 TODAY IS THE DAY.\n\nAfter months of building, Loudship is officially LIVE on Product Hunt!\n\nI built Loudship because I was tired of spending hours looking for potential customers.\n\nNow it finds conversations on Reddit, Bluesky & Hacker News where people are looking for products",
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Launch and Product Hunt week"
+      }
+    },
+    {
+      "name": "Rob Hallam",
+      "handle": "@robj3d3",
+      "views": 6332,
+      "url": "https://x.com/robj3d3/status/2114804532463214811",
+      "posted_at": "2026-10-26T19:41:06.000Z",
+      "media": "text",
+      "hook": "Congrats on using Claude - quote reply meme.",
+      "text": "Hey bro,\n\ncongrats on using Claude\n\nsincerely,\n\nyour bro",
+      "video_tip": "Screenshot of the quote stack as a meme. Still image fine.",
+      "followers": 67430,
+      "id": "2114804532463214811",
+      "original_en": "Hey bro,\n\ncongrats on using Claude\n\nsincerely,\n\nyour bro",
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "name": "Michal Malewicz",
+      "handle": "@michalmalewicz",
+      "views": 1574,
+      "url": "https://x.com/michalmalewicz/status/2114389087662522735",
+      "posted_at": "2026-10-25T16:10:16.000Z",
+      "media": "image",
+      "hook": "Indie hacker liberates a SaaS, then gets liberated - software devaluation.",
+      "text": "Popular indie hacker \"liberated\" a popular SaaS by making a cheaper alternative.\n\nThen the crowd started \"liberating\" his apps.\n\nThis is the moment of the great software devaluation.\n\nMore chaos coming:",
+      "video_tip": "Carousel: original SaaS → clone → free clone. 3 slides.",
+      "followers": 54533,
+      "id": "2114389087662522735",
+      "original_en": "Popular indie hacker \"liberated\" a popular SaaS by making a cheaper alternative.\n\nThen the crowd started \"liberating\" his apps.\n\nThis is the moment of the great software devaluation.\n\nMore chaos coming:",
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "SaaS pricing undercut"
+      }
+    },
+    {
+      "name": "Tom Otto",
+      "handle": "@launch_llama",
+      "views": 1079,
+      "url": "https://x.com/launch_llama/status/2114629140515074131",
+      "posted_at": "2026-10-26T08:04:09.000Z",
+      "media": "text",
+      "hook": "9 things that kill a SaaS before traction.",
+      "text": "Founders, here are 9 things that kill a SaaS before it gets traction:\n\n1. Building for 6 months before showing anyone\n2. No landing page while \"still building\"\n3. Pricing too low to sustain support costs\n4. Ignoring the first 10 users' feedback\n5. Perfecting onboarding nobody's",
+      "video_tip": "Numbered text cards 1-5, swipe. Carousel.",
+      "followers": 4841,
+      "id": "2114629140515074131",
+      "original_en": "Founders, here are 9 things that kill a SaaS before it gets traction:\n\n1. Building for 6 months before showing anyone\n2. No landing page while \"still building\"\n3. Pricing too low to sustain support costs\n4. Ignoring the first 10 users' feedback\n5. Perfecting onboarding nobody's",
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "followers: no data",
+        "topic": "SaaS pricing undercut"
+      }
+    }
+  ],
+  "outsiders": [
+    {
+      "name": "Cindy App",
+      "handle": "@making_cindy",
+      "views": 2147439,
+      "url": "https://x.com/making_cindy/status/2114627189119566266",
+      "posted_at": "2026-10-26T07:56:24.000Z",
+      "media": "text",
+      "hook": "Cindy hit GitHub #1 as one open-source agent for Claude Code and Codex.",
+      "text": "Cindy made today's GitHub top 1 🚀 One open-source agent that brings Claude Code, Codex and other harnesses together to do real work on your desktop and phone. Open source and free 👉 https://github.com/makecindy/cindy",
+      "video_tip": "Still of GitHub trending #1, then 6s screencast opening Cindy on desktop.",
+      "followers": 2133,
+      "id": "2114627189119566266",
+      "original_en": "Cindy made today's GitHub top 1 🚀 One open-source agent that brings Claude Code, Codex and other harnesses together to do real work on your desktop and phone. Open source and free 👉",
+      "board_rank": 1,
+      "draft_en": "GitHub just crowned an open-source agent that wires Claude Code Codex and other harnesses into one desktop-and-phone stack.\n\nCindy hit #1 trending. One skill that does real work on your machine, free to run.\n\nIf you still juggle separate coding agents, this is the consolidation play.",
+      "draft_keywords": [
+        "agent",
+        "Claude Code Codex",
+        "skill"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.093,
+        "word_overlap": 0.423,
+        "max_copied_run": 6
+      },
+      "top10_rank": 1
+    },
+    {
+      "name": "Pri",
+      "handle": "@solopribuilds",
+      "views": 840083,
+      "url": "https://x.com/solopribuilds/status/2114782299220828556",
+      "posted_at": "2026-10-26T18:12:45.000Z",
+      "media": "text",
+      "hook": "Fiverr and Upwork are dead - how are people freelancing?",
+      "text": "fiverr is dead\nupwork is dead\n\nhow are ppl freelancing",
+      "video_tip": "Text card, three lines, bold: fiverr / upwork / how are people freelancing.",
+      "followers": 6553,
+      "id": "2114782299220828556",
+      "original_en": "fiverr is dead\nupwork is dead\n\nhow are ppl freelancing",
+      "board_rank": 2,
+      "draft_en": "Fiverr feels dead. Upwork feels dead.\n\nSame week the timeline keeps chanting that SaaS is dead too.\n\nSo how are people freelancing - what channel still sends paid work?",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.308,
+        "max_copied_run": 2
+      },
+      "top10_rank": 2
+    },
+    {
+      "name": "Treg",
+      "handle": "@treg_ai",
+      "views": 464597,
+      "url": "https://x.com/treg_ai/status/2114674262179188755",
+      "posted_at": "2026-10-26T11:03:27.000Z",
+      "media": "video",
+      "hook": "People-search for agents at $0.0089/lead, open source, no $600 Clay bill.",
+      "text": "Introducing Jev @typesafeai powered people-search\n\nJust $0.0089/lead, No more $600 subscriptions,\n\nTry it at https://treg.to/people-search\n\n- 85% cheaper than Clay\n- #1 on people search bench accuracy\n- Plugin to any agent to find anyone\n\nFully open source, 0% markup\n\nGit Repo below 👇",
+      "video_tip": "60s product video already on the post; cut a 12s highlight of the $0.0089 price and agent plug-in.",
+      "followers": 6980,
+      "id": "2114674262179188755",
+      "original_en": "Introducing Jev @typesafeai powered people-search\n\nJust $0.0089/lead, No more $600 subscriptions,\n\nTry it at\n\n- 85% cheaper than Clay\n- #1 on people search bench accuracy\n- Plugin to any agent to find anyone\n\nFully open source, 0% markup\n\nGit Repo below 👇",
+      "board_rank": 3,
+      "draft_en": "People-search for any agent just dropped to $0.0089 per lead.\n\nJev from @typesafeai powers Treg: open source, 0% markup, pitched as 85% cheaper than Clay and #1 on their people-search bench.\n\nNo more $600 subscriptions if a plugin call finds the contact.",
+      "draft_keywords": [
+        "agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.077,
+        "word_overlap": 0.591,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 212733,
+      "url": "https://x.com/JackEllis/status/2114527426588066075",
+      "posted_at": "2026-10-26T01:19:59.000Z",
+      "media": "text",
+      "hook": "SaaS clone wars: Beehiiv clone gets cloned, then released for free.",
+      "text": "Someone on here clones Beehiv because they think it’s too expensive but then someone else clones that person’s SaaS because they think it’s too expensive. And then someone else clones this new person’s product and releases it for free. I can’t stop laughing.",
+      "video_tip": "Whiteboard three boxes: clone → clone of clone → free release. 8s.",
+      "followers": 36220,
+      "id": "2114527426588066075",
+      "original_en": "Someone on here clones Beehiv because they think it’s too expensive but then someone else clones that person’s SaaS because they think it’s too expensive. And then someone else clones this new person’s product and releases it for free. I can’t stop laughing.",
+      "board_rank": 4,
+      "draft_en": "Watch the SaaS clone loop on X:\n\nSomeone clones Beehiiv because the bill feels high.\nSomeone else clones that clone for the same reason.\nThen a third person ships the free version.\n\nI keep laughing because the race to zero is the product now.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.024,
+        "word_overlap": 0.286,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4
+    },
+    {
+      "name": "Francois de Fitte",
+      "handle": "@francoisdefitte",
+      "views": 210678,
+      "url": "https://x.com/francoisdefitte/status/2114789312432943180",
+      "posted_at": "2026-10-26T18:40:37.000Z",
+      "media": "video",
+      "hook": "Map of Bay Area cafes where founders actually meet VCs.",
+      "text": "made a map of Bay Area cafes where you’ve got the best shot at meeting VCs (and maybe raising your next round)\n\ncheck it out: https://meetvc.cafe",
+      "video_tip": "Use the post's map walkthrough; cut to one pin with a tweet screenshot.",
+      "followers": 1690,
+      "id": "2114789312432943180",
+      "original_en": "made a map of Bay Area cafes where you’ve got the best shot at meeting VCs (and maybe raising your next round)\n\ncheck it out:",
+      "board_rank": 5,
+      "draft_en": "Bay Area founders still close rounds in cafes, not only in DMs.\n\nSomeone mapped the spots where you have the best shot at meeting VCs - each pin backed by a real tweet.\n\nOpen meetvc.cafe before the next SF trip if you are raising a SaaS round the in-person way.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.065,
+        "word_overlap": 0.348,
+        "max_copied_run": 6
+      },
+      "top10_rank": 5
+    },
+    {
+      "name": "Dan Kulkov",
+      "handle": "@DanKulkov",
+      "views": 144625,
+      "url": "https://x.com/DanKulkov/status/2114334359834722628",
+      "posted_at": "2026-10-25T12:32:48.000Z",
+      "media": "video",
+      "hook": "New SaaS made $1000 in 1 day - build-in-public revenue video.",
+      "text": "my new saas made $1000 in 1 day",
+      "video_tip": "Trim the long video to the Stripe/revenue moment; open with the $1000 line.",
+      "followers": 51879,
+      "id": "2114334359834722628",
+      "original_en": "my new saas made $1000 in 1 day",
+      "board_rank": 6,
+      "draft_en": "One day. One new SaaS. $1000 in.\n\nThat is the build-in-public receipt making the rounds - video proof, not a vague MRR screenshot.\n\nWhether you buy the narrative or not, the format is clear: ship, show the money, move on.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.1,
+        "max_copied_run": 2
+      },
+      "top10_rank": 6
+    },
+    {
+      "name": "Viktor Oddy",
+      "handle": "@viktoroddy",
+      "views": 98640,
+      "url": "https://x.com/viktoroddy/status/2114684257109254434",
+      "posted_at": "2026-10-26T11:43:10.000Z",
+      "media": "video",
+      "hook": "MotionSites skill: 700+ designs so agents stop shipping AI slop sites.",
+      "text": "The MotionSites skill is live 🚀\n\nI turned 700+ of my best website designs into one skill.\n\nInstall it and your agent stops making generic AI slop and starts building cinematic, animated sites like these.\n\nWorks with Claude Code, Codex, Cursor or any agent.\n\nFree and open source:",
+      "video_tip": "12s montage of the sample sites from the video, end on install command.",
+      "followers": 74524,
+      "id": "2114684257109254434",
+      "original_en": "The MotionSites skill is live 🚀\n\nI turned 700+ of my best website designs into one skill.\n\nInstall it and your agent stops making generic AI slop and starts building cinematic, animated sites like these.\n\nWorks with Claude Code, Codex, Cursor or any agent.\n\nFree and open source:",
+      "board_rank": 7,
+      "draft_en": "Purple template sites are what most agents spit out by default.\n\nMotionSites packs 700+ real website designs into one skill. Drop it into Claude Code Codex or Cursor and you get cinematic, animated pages instead of generic AI slop.\n\nFree and open source.",
+      "draft_keywords": [
+        "agent",
+        "skill",
+        "Claude Code Codex"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.075,
+        "word_overlap": 0.63,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7
+    },
+    {
+      "name": "Dan Kulkov",
+      "handle": "@DanKulkov",
+      "views": 26316,
+      "url": "https://x.com/DanKulkov/status/2114679669480177795",
+      "posted_at": "2026-10-26T11:24:56.000Z",
+      "media": "text",
+      "hook": "Why pay $600/mo when agent people-search is $2?",
+      "text": "💀 SaaS died in October\n\nwhy would you pay $600/mo for tool\n\nwhen you can pay $2 (two dollars)?\n\nrip monthly subscriptions 🥀\n\nyou won't be missed",
+      "video_tip": "Split screen: $600 Clay invoice vs $2 agent call. 8s.",
+      "followers": 51879,
+      "id": "2114679669480177795",
+      "original_en": "💀 SaaS died in October\n\nwhy would you pay $600/mo for tool\n\nwhen you can pay $2 (two dollars)?\n\nrip monthly subscriptions 🥀\n\nyou won't be missed",
+      "board_rank": 8,
+      "draft_en": "October's hot take: SaaS died when a $600/mo tool got undercut by a $2 agent call.\n\nWhy renew the fat subscription if people-search plugs into any agent for pocket change?\n\nMonthly plans will not be missed by teams that can swap price for a plugin.",
+      "draft_keywords": [
+        "SaaS",
+        "agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.25,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8
+    },
+    {
+      "name": "Pri",
+      "handle": "@solopribuilds",
+      "views": 25721,
+      "url": "https://x.com/solopribuilds/status/2114466720307876260",
+      "posted_at": "2026-10-25T21:18:45.000Z",
+      "media": "text",
+      "hook": "Content, freelancing, and SaaS are all 'dead' - what now?",
+      "text": "content creation is dead\nfreelancing is dead\nsaas is dead\n\nwhat are we supposed to do now",
+      "video_tip": "Text card stack of three 'dead' lines, then the question.",
+      "followers": 6553,
+      "id": "2114466720307876260",
+      "original_en": "content creation is dead\nfreelancing is dead\nsaas is dead\n\nwhat are we supposed to do now",
+      "board_rank": 9,
+      "draft_en": "The timeline buried three careers in one thread: creators, freelancers, and SaaS founders.\n\nIf every lane is a funeral post, what do you ship tomorrow?\n\nPick one channel that still compounds and ignore the obituaries.",
+      "draft_keywords": [
+        "SaaS"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.053,
+        "max_copied_run": 1
+      },
+      "top10_rank": 9
+    },
+    {
+      "name": "NetNetCap",
+      "handle": "@NetNetCap",
+      "views": 21687,
+      "url": "https://x.com/NetNetCap/status/2114745753034018893",
+      "posted_at": "2026-10-26T15:47:32.000Z",
+      "media": "text",
+      "hook": "Net Forge: private project to shipped multiplayer agent game builder.",
+      "text": "Shareholders,\n\nFor the last few weeks we have been building Net Forge, and this week it went from a private project to something any developer, or any AI agent, can pick up and use.\n\nHere is what that means and why we think it matters.\n\nMore and more games start as a sentence https://t.co/4IQXXhoKwr",
+      "video_tip": "Screen: agent prompt → live multiplayer lobby. 10s.",
+      "followers": 0,
+      "id": "2114745753034018893",
+      "original_en": "Shareholders,\n\nFor the last few weeks we have been building Net Forge, and this week it went from a private project to something any developer, or any AI agent, can pick up and use.\n\nHere is what that means and why we think it matters.\n\nMore and more games start as a sentence",
+      "board_rank": 10,
+      "draft_en": "Net Forge left private alpha this week.\n\nA developer - or an AI agent - can spin up a multiplayer browser game from a single sentence.\n\nThat is the shareholder pitch: games start as prompts, and the harness is now public.",
+      "draft_keywords": [
+        "AI agent",
+        "agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.421,
+        "max_copied_run": 3
+      },
+      "top10_rank": 10
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 16220,
+      "url": "https://x.com/JackEllis/status/2114730117939269852",
+      "posted_at": "2026-10-26T14:45:24.000Z",
+      "media": "text",
+      "hook": "Ralph Lauren polo joke: import from China, print horse, sell for $5.",
+      "text": "I got tired of paying $100 for Ralph Lauren polos so I have imported 100 shirts from China and I’m printing my own horse logo on them. \n\nSelling them for $5 each. \n\nRalph Lauren is dead.",
+      "video_tip": "Meme still: $100 polo vs $5 horse logo. No need for video.",
+      "followers": 36220,
+      "id": "2114730117939269852",
+      "original_en": "I got tired of paying $100 for Ralph Lauren polos so I have imported 100 shirts from China and I’m printing my own horse logo on them. \n\nSelling them for $5 each. \n\nRalph Lauren is dead.",
+      "board_rank": 11
+    },
+    {
+      "name": "Rob Hallam",
+      "handle": "@robj3d3",
+      "views": 15277,
+      "url": "https://x.com/robj3d3/status/2114726059149271438",
+      "posted_at": "2026-10-26T14:29:16.000Z",
+      "media": "text",
+      "hook": "A lot of people are about to become very rich (Anthropic quote).",
+      "text": "A lot of people are about to become very very rich.\n\nAlso we’ll get Fable 5.5 🥳",
+      "video_tip": "Talking-head reaction cut, 6s, end on the quote card.",
+      "followers": 67430,
+      "id": "2114726059149271438",
+      "original_en": "A lot of people are about to become very very rich.\n\nAlso we’ll get Fable 5.5 🥳",
+      "board_rank": 12
+    },
+    {
+      "name": "Dan Kulkov",
+      "handle": "@DanKulkov",
+      "views": 12826,
+      "url": "https://x.com/DanKulkov/status/2114729786837017075",
+      "posted_at": "2026-10-26T14:44:05.000Z",
+      "media": "image",
+      "hook": "Wow Keywords: 104 licenses, $7102 in 48 hours.",
+      "text": "https://wowkeywords.com 48 hours later 🚨\n\n104 licenses sold = $7102 in revenue\n\nfull focus on making product better!\n\n📊 reworked popularity/difficulty formula\n💻 windows & intel mac support\n📀 import from Astro\n🧑‍💻 multiple apple developer accounts\n🏎️ faster metrics fetch\n🤖 fixed ai subscription connection issues\n👾 huge improvements of MCP\n👀 UI polished\n🐞 tons of bug fixed\n\ncrazy 2 days\n\nTHANK YOU!!!",
+      "video_tip": "Zoom the revenue screenshot; overlay 104 licenses / $7102.",
+      "followers": 51879,
+      "id": "2114729786837017075",
+      "original_en": "48 hours later 🚨\n\n104 licenses sold = $7102 in revenue\n\nfull focus on making product better!\n\n📊 reworked popularity/difficulty formula\n💻 windows & intel mac support\n📀 import from Astro\n🧑‍💻 multiple apple developer accounts\n🏎️ faster metrics fetch\n🤖 fixed ai subscription connection issues\n👾 huge improvements of MCP\n👀 UI polished\n🐞 tons of bug fixed\n\ncrazy 2 days\n\nTHANK YOU!!!",
+      "board_rank": 13
+    },
+    {
+      "name": "Jack Ellis",
+      "handle": "@JackEllis",
+      "views": 12707,
+      "url": "https://x.com/JackEllis/status/2114782509879951615",
+      "posted_at": "2026-10-26T18:13:35.000Z",
+      "media": "image",
+      "hook": "Mythos audit of 'free self-hosted' software - it's slop.",
+      "text": "I asked Mythos to audit this \"free, self-hosted\" software. It's slop. Be careful what you install.",
+      "video_tip": "Show the audit screenshot, highlight one red finding. 8s.",
+      "followers": 36220,
+      "id": "2114782509879951615",
+      "original_en": "I asked Mythos to audit this \"free, self-hosted\" software. It's slop. Be careful what you install.",
+      "board_rank": 14
+    },
+    {
+      "name": "Rob Hallam",
+      "handle": "@robj3d3",
+      "views": 12225,
+      "url": "https://x.com/robj3d3/status/2114798653156237325",
+      "posted_at": "2026-10-26T19:17:44.000Z",
+      "media": "text",
+      "hook": "Fable 5.5 tease aimed at Anthropic after OpenAI news.",
+      "text": "Fable 5.5 is gonna mog this so unbelievably hard.\n\nCome on @AnthropicAI you know you want to.",
+      "video_tip": "Text card with Fable 5.5, soft zoom. 5s.",
+      "followers": 67430,
+      "id": "2114798653156237325",
+      "original_en": "Fable 5.5 is gonna mog this so unbelievably hard.\n\nCome on @AnthropicAI you know you want to.",
+      "board_rank": 15
+    },
+    {
+      "name": "Ridark",
+      "handle": "@ridark_eth",
+      "views": 7009,
+      "url": "https://x.com/ridark_eth/status/2114470513351221292",
+      "posted_at": "2026-10-25T21:33:50.000Z",
+      "media": "text",
+      "hook": "Coding agent still can't open an issue - Claude Code $20/mo waste.",
+      "text": "DAMN. YOUR CODING AGENT STILL CAN'T OPEN AN ISSUE?\n\nClaude Code at $20/month. every call the agent wastes reaching for a tool it can't grab eats your plan limit for nothing\n\none config line per server replaces a custom integration. 476k stars across the ten. markitdown alone https://t.co/Ou9pLYhWrU https://t.co/58Ywn77Nwj",
+      "video_tip": "Terminal: agent fails to open GitHub issue, then install fix. 10s.",
+      "followers": 15340,
+      "id": "2114470513351221292",
+      "original_en": "DAMN. YOUR CODING AGENT STILL CAN'T OPEN AN ISSUE?\n\nClaude Code at $20/month. every call the agent wastes reaching for a tool it can't grab eats your plan limit for nothing\n\none config line per server replaces a custom integration. 476k stars across the ten. markitdown alone",
+      "board_rank": 17
+    },
+    {
+      "name": "Mattbuilds",
+      "handle": "@am56ay",
+      "views": 5688,
+      "url": "https://x.com/am56ay/status/2114320189340656118",
+      "posted_at": "2026-10-25T11:36:29.000Z",
+      "media": "video",
+      "hook": "Loudship live on Product Hunt - finds Reddit/Bluesky/HN demand.",
+      "text": "🚀 TODAY IS THE DAY.\n\nAfter months of building, Loudship is officially LIVE on Product Hunt!\n\nI built Loudship because I was tired of spending hours looking for potential customers.\n\nNow it finds conversations on Reddit, Bluesky & Hacker News where people are looking for products",
+      "video_tip": "Use the PH launch clip; cut to one found Reddit thread.",
+      "followers": 425,
+      "id": "2114320189340656118",
+      "original_en": "🚀 TODAY IS THE DAY.\n\nAfter months of building, Loudship is officially LIVE on Product Hunt!\n\nI built Loudship because I was tired of spending hours looking for potential customers.\n\nNow it finds conversations on Reddit, Bluesky & Hacker News where people are looking for products",
+      "board_rank": 19
+    },
+    {
+      "name": "Rob Hallam",
+      "handle": "@robj3d3",
+      "views": 6332,
+      "url": "https://x.com/robj3d3/status/2114804532463214811",
+      "posted_at": "2026-10-26T19:41:06.000Z",
+      "media": "text",
+      "hook": "Congrats on using Claude - quote reply meme.",
+      "text": "Hey bro,\n\ncongrats on using Claude\n\nsincerely,\n\nyour bro",
+      "video_tip": "Screenshot of the quote stack as a meme. Still image fine.",
+      "followers": 67430,
+      "id": "2114804532463214811",
+      "original_en": "Hey bro,\n\ncongrats on using Claude\n\nsincerely,\n\nyour bro",
+      "board_rank": 18
+    },
+    {
+      "name": "Michal Malewicz",
+      "handle": "@michalmalewicz",
+      "views": 1574,
+      "url": "https://x.com/michalmalewicz/status/2114389087662522735",
+      "posted_at": "2026-10-25T16:10:16.000Z",
+      "media": "image",
+      "hook": "Indie hacker liberates a SaaS, then gets liberated - software devaluation.",
+      "text": "Popular indie hacker \"liberated\" a popular SaaS by making a cheaper alternative.\n\nThen the crowd started \"liberating\" his apps.\n\nThis is the moment of the great software devaluation.\n\nMore chaos coming:",
+      "video_tip": "Carousel: original SaaS → clone → free clone. 3 slides.",
+      "followers": 54533,
+      "id": "2114389087662522735",
+      "original_en": "Popular indie hacker \"liberated\" a popular SaaS by making a cheaper alternative.\n\nThen the crowd started \"liberating\" his apps.\n\nThis is the moment of the great software devaluation.\n\nMore chaos coming:",
+      "board_rank": 20
+    },
+    {
+      "name": "Tom Otto",
+      "handle": "@launch_llama",
+      "views": 1079,
+      "url": "https://x.com/launch_llama/status/2114629140515074131",
+      "posted_at": "2026-10-26T08:04:09.000Z",
+      "media": "text",
+      "hook": "9 things that kill a SaaS before traction.",
+      "text": "Founders, here are 9 things that kill a SaaS before it gets traction:\n\n1. Building for 6 months before showing anyone\n2. No landing page while \"still building\"\n3. Pricing too low to sustain support costs\n4. Ignoring the first 10 users' feedback\n5. Perfecting onboarding nobody's",
+      "video_tip": "Numbered text cards 1-5, swipe. Carousel.",
+      "followers": 4841,
+      "id": "2114629140515074131",
+      "original_en": "Founders, here are 9 things that kill a SaaS before it gets traction:\n\n1. Building for 6 months before showing anyone\n2. No landing page while \"still building\"\n3. Pricing too low to sustain support costs\n4. Ignoring the first 10 users' feedback\n5. Perfecting onboarding nobody's",
+      "board_rank": 21
+    }
+  ],
+  "patterns": [
+    "SaaS is dead",
+    "SaaS is not dead",
+    "clone wars / open source clones",
+    "Claude Code",
+    "Codex",
+    "AI agents",
+    "MCP",
+    "build in public revenue",
+    "Product Hunt launch",
+    "ClipAudit / secrets",
+    "TrustMRR",
+    "people search / Clay alternative"
+  ],
+  "no_hits": [
+    {
+      "handle": "@robwalling",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@csallen",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@browserbase",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@browser_use",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@calebporzio",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@awesomekling",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    },
+    {
+      "handle": "@andreasklinger",
+      "reason": "No unpinned day original reached 5,000 views; no originals observed in the Asia/Shanghai day window.",
+      "max_views": 0
+    }
+  ],
+  "virals_narrative": "Outsiders rewarded clone-war takes, open-source agent harnesses (Cindy, MotionSites), $0.00x agent people-search, and build-in-public revenue posts. Watchlist day was quiet except Firecrawl's a16z Speedrun deal.",
+  "narrative_synthesis": "The board themes are SaaS-is-dead vs not-dead, Claude Code/Codex agent tooling, and indie revenue receipts. One watchlist hit (Firecrawl). Heavy signal from trend-input accounts (levelsio, marclou, tdinh_me, yongfook).",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 1,
+  "outsiders_count": 20,
+  "previous_day": {
+    "date": "2026-10-25",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-10-26",
+    "tracking_start": "2026-09-13",
+    "days_included": [
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25",
+      "2026-10-26"
+    ],
+    "month_days_included": [],
+    "week": {
+      "label": "Rolling week · Oct 20–Oct 26",
+      "range": [
+        "2026-10-20",
+        "2026-10-26"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "October 2026 · from Sep 13",
+      "range": [
+        "2026-09-13",
+        "2026-10-26"
+      ],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "operator": {
+    "handle": "sinaniscoding",
+    "name": "Sinan",
+    "profile_url": "https://x.com/sinaniscoding"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [
+    {
+      "handle": "@firecrawl",
+      "name": "Firecrawl",
+      "views": 8320,
+      "total_views": 8320,
+      "hit": true
+    },
+    {
+      "handle": "@robwalling",
+      "name": "Rob Walling",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@csallen",
+      "name": "Courtland Allen",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@browserbase",
+      "name": "Browserbase",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@browser_use",
+      "name": "Browser Use",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@calebporzio",
+      "name": "Caleb Porzio",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@awesomekling",
+      "name": "Andreas Kling",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@andreasklinger",
+      "name": "Andreas Klinger",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    }
+  ],
+  "you_rank": null,
+  "trend_input_only_posts": [
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 127850,
+      "url": "https://x.com/marclou/status/2114562534262944098",
+      "posted_at": "2026-10-26T03:39:29.000Z",
+      "media": "text",
+      "hook": "SaaS is so dead (quote of $1000/day launch).",
+      "text": "SaaS is so dead",
+      "video_tip": "Still of quote stack.",
+      "followers": 417811,
+      "id": "2114562534262944098"
+    },
+    {
+      "name": "@levelsio",
+      "handle": "@levelsio",
+      "views": 175084,
+      "url": "https://x.com/levelsio/status/2114700426528575817",
+      "posted_at": "2026-10-26T12:47:25.000Z",
+      "media": "text",
+      "hook": "Race to the bottom in software - own Big AI/Tech stock.",
+      "text": "I keep saying this but if you understand basic economics the only one winning here is Big AI and Big Tech\n\nIt's a race to the bottom for anyone else in software\n\nSo try become a co-owner of big AI and Big Tech stock and survive off their dividends and/or stock appreciation",
+      "video_tip": "Text card of the thesis. 6s.",
+      "followers": 982814,
+      "id": "2114700426528575817"
+    },
+    {
+      "name": "@levelsio",
+      "handle": "@levelsio",
+      "views": 122836,
+      "url": "https://x.com/levelsio/status/2114429379527004590",
+      "posted_at": "2026-10-25T18:50:22.000Z",
+      "media": "text",
+      "hook": "Tailscale's turn - check your setup on tailworm.",
+      "text": "Speaking of the devil, now it's Tailscale's turn 😂\n\nGo to https://tailworm.com to check your setup",
+      "video_tip": "Open tailworm.com check flow. 10s.",
+      "followers": 982814,
+      "id": "2114429379527004590"
+    },
+    {
+      "name": "Daniel Vassallo",
+      "handle": "@dvassallo",
+      "views": 113762,
+      "url": "https://x.com/dvassallo/status/2114577956362223889",
+      "posted_at": "2026-10-26T04:40:46.000Z",
+      "media": "text",
+      "hook": "America: trade-school painter wants the same life as the doctor.",
+      "text": "What's great about America: the painter who went to trade school wants the same life as the doctor who went to med school. And he mostly gets it. The downside is no cheap services. Everyone's time is expensive.",
+      "video_tip": "Quote card over paint quote thread. Still.",
+      "followers": 205782,
+      "id": "2114577956362223889"
+    },
+    {
+      "name": "@levelsio",
+      "handle": "@levelsio",
+      "views": 87671,
+      "url": "https://x.com/levelsio/status/2114431852517724181",
+      "posted_at": "2026-10-25T19:00:12.000Z",
+      "media": "text",
+      "hook": "Doing the same with my house (Pentagon fortress quote).",
+      "text": "I'm doing the same with my house 🤩",
+      "video_tip": "Still of quote.",
+      "followers": 982814,
+      "id": "2114431852517724181"
+    },
+    {
+      "name": "@levelsio",
+      "handle": "@levelsio",
+      "views": 83754,
+      "url": "https://x.com/levelsio/status/2114705745816006795",
+      "posted_at": "2026-10-26T13:08:33.000Z",
+      "media": "text",
+      "hook": "Ground beef and rice factory settings joke.",
+      "text": "Guys literally only want one thing and it's ground beef and rice",
+      "video_tip": "Meme still.",
+      "followers": 982814,
+      "id": "2114705745816006795"
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 58807,
+      "url": "https://x.com/marclou/status/2114698325320708307",
+      "posted_at": "2026-10-26T12:39:04.000Z",
+      "media": "image",
+      "hook": "Can someone explain Botox to me?",
+      "text": "Can someone explain Botox to me?\n\nI find it not attractive at all, but I see so many women doing it now that I might be an exception.",
+      "video_tip": "Use the photo from the post.",
+      "followers": 417811,
+      "id": "2114698325320708307"
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 56995,
+      "url": "https://x.com/marclou/status/2114685725119799587",
+      "posted_at": "2026-10-26T11:49:00.000Z",
+      "media": "text",
+      "hook": "Average at many things, great at being me.",
+      "text": "I'm an average programmer\nI'm an average marketer\nI'm an average runner\nI'm an average lifter\n\nI’m average at a lot of things.\n\nBut I’m pretty great at being me 😁",
+      "video_tip": "Text card list. 6s.",
+      "followers": 417811,
+      "id": "2114685725119799587"
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 44400,
+      "url": "https://x.com/marclou/status/2114604489324015986",
+      "posted_at": "2026-10-26T06:26:12.000Z",
+      "media": "image",
+      "hook": "Gm. Burn calories and tokens.",
+      "text": "Gm.\n\nBurn some calories and tokens today.",
+      "video_tip": "Photo from post.",
+      "followers": 417811,
+      "id": "2114604489324015986"
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 43603,
+      "url": "https://x.com/marclou/status/2114628402409824311",
+      "posted_at": "2026-10-26T08:01:13.000Z",
+      "media": "text",
+      "hook": "200 acquisitions on TrustMRR in under a year.",
+      "text": "🥹🥹🥹\n\n200 acquisitions on TrustMRR in less than a year…\n\nI can’t believe my startup marketplace started as a vibe-coded revenue leaderboard for founders.\n\nFunny enough, the leaderboard died after a month.\n\nBut I listened to users and built a marketplace after they requested",
+      "video_tip": "TrustMRR #200 badge still.",
+      "followers": 417811,
+      "id": "2114628402409824311"
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 32675,
+      "url": "https://x.com/tdinh_me/status/2114623624267407864",
+      "posted_at": "2026-10-26T07:42:14.000Z",
+      "media": "image",
+      "hook": "ClipAudit: clipboard manager that hides 713 secret types.",
+      "text": "NEW APP!!! 🚀\n\nIn the age of security incidents, I figured we need to be more careful with how we treat secrets in our clipboard.\n\nSo I built this: https://ClipAudit.app (macOS app)\n\n- It automatically detects 713 types of API keys and secrets and conceals them from other apps that read your clipboard in under <1ms.\n- Detect and scrubs secrets out of your shell history (bash, zsh, etc.).\n- Secrets in your clipboard will auto-clear after 90s, and accessing them again requires Touch ID.\n- Hide your secrets while you are in screen recording or screen sharing mode.\n- Everything is 100% offline, on-device processing, and encrypted with macOS Keychain.\n\nClipAudit is also a fully featured clipboard manager, so now I replace Alfred / Raycast with this!\n\nCheck it out 👉 https://ClipAudit.app\n\nLet me know what you think! 😄",
+      "video_tip": "Screen: paste API key → auto-conceal → Touch ID. 12s.",
+      "followers": 206310,
+      "id": "2114623624267407864"
+    },
+    {
+      "name": "Jon Yongfook",
+      "handle": "@yongfook",
+      "views": 27692,
+      "url": "https://x.com/yongfook/status/2114646744810324252",
+      "posted_at": "2026-10-26T09:14:06.000Z",
+      "media": "text",
+      "hook": "SaaS is not dead - selling narrow tools to X tech audience is.",
+      "text": "SaaS is not dead. \n\nBuilding narrowly scoped software that you can easily sell to a tech audience on X, is dead.",
+      "video_tip": "Two-line text card. 5s.",
+      "followers": 174729,
+      "id": "2114646744810324252"
+    },
+    {
+      "name": "@levelsio",
+      "handle": "@levelsio",
+      "views": 18803,
+      "url": "https://x.com/levelsio/status/2114510984689639894",
+      "posted_at": "2026-10-26T00:14:39.000Z",
+      "media": "text",
+      "hook": "Brazil election polling booth timing claim.",
+      "text": "In tonight's Brazil presidential elections, something that looks like a coup just happened\n\nThe ruling left wing candidate Lula kept the polling booths open 2 extra hours to get more votes in places where he was predicted to win (7pm)\n\nWhile closing the polling booths in places",
+      "video_tip": "Skip visual if political; text only not allowed - use news screenshot still.",
+      "followers": 982814,
+      "id": "2114510984689639894"
+    },
+    {
+      "name": "Jon Yongfook",
+      "handle": "@yongfook",
+      "views": 14188,
+      "url": "https://x.com/yongfook/status/2114679769191371158",
+      "posted_at": "2026-10-26T11:25:20.000Z",
+      "media": "text",
+      "hook": "DataQuick: we pay you to use our SaaS.",
+      "text": "Introducing DataQuick. \n\nWe pay YOU to use our SaaS. \n\nPlease bro I’ll give you $5 to use it. \n\nOk fine $20. \n\n$25 and a hug.",
+      "video_tip": "Joke pricing ladder as text cards.",
+      "followers": 174729,
+      "id": "2114679769191371158"
+    },
+    {
+      "name": "Danny Postma",
+      "handle": "@dannypostma",
+      "views": 10900,
+      "url": "https://x.com/dannypostma/status/2114677031401386423",
+      "posted_at": "2026-10-26T11:14:27.000Z",
+      "media": "text",
+      "hook": "Timeline content is insane this week.",
+      "text": "timeline content is insane this week, glad to see it's not just me",
+      "video_tip": "Quote stack still.",
+      "followers": 188527,
+      "id": "2114677031401386423"
+    },
+    {
+      "name": "LangChain",
+      "handle": "@LangChain",
+      "views": 9447,
+      "url": "https://x.com/LangChain/status/2114734295818318107",
+      "posted_at": "2026-10-26T15:02:00.000Z",
+      "media": "video",
+      "hook": "Managed Deep Agents 0.9 keynote teaser.",
+      "text": "What’s new in Managed Deep Agents 0.9? And how can you get started?\n\nWatch @VictorMoreira16's keynote from Interrupt London for an inside look.",
+      "video_tip": "Clip 10s from the keynote video.",
+      "followers": 271721,
+      "id": "2114734295818318107"
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 8086,
+      "url": "https://x.com/tdinh_me/status/2114644124133630403",
+      "posted_at": "2026-10-26T09:03:42.000Z",
+      "media": "text",
+      "hook": "First clipboard manager that conceals secrets?",
+      "text": "Am I the first person to build a clipboard manager app that automatically conceals and protects secrets? 😂\n\nI think so but not sure, if you know any other apps that did this before please share!",
+      "video_tip": "Still of ClipAudit hero.",
+      "followers": 206310,
+      "id": "2114644124133630403"
+    },
+    {
+      "name": "LangChain",
+      "handle": "@LangChain",
+      "views": 7317,
+      "url": "https://x.com/LangChain/status/2114704552406483327",
+      "posted_at": "2026-10-26T13:03:49.000Z",
+      "media": "image",
+      "hook": "Nov 12 NYC event with Tavily on production agents + live web.",
+      "text": "On November 12th, we're teaming up with @tavilyai to showcase how production agents find, understand, and use information from the live web. \n\nRSVP for this NYC event:",
+      "video_tip": "Event flyer still.",
+      "followers": 271721,
+      "id": "2114704552406483327"
+    },
+    {
+      "name": "LangChain",
+      "handle": "@LangChain",
+      "views": 6811,
+      "url": "https://x.com/LangChain/status/2114742095684731050",
+      "posted_at": "2026-10-26T15:33:00.000Z",
+      "media": "text",
+      "hook": "Deep Agents 0.9: schedules, per-run config, Slack reactions.",
+      "text": "TL;DR on Managed Deep Agents 0.9:\n✅ Agent-created schedules: agents can set up reminders and recurring tasks from a conversation.\n✅ Per-run configuration: one deployment can pick its model, skills, and tools for each run.\n✅ Slack reactions: agents acknowledge messages before",
+      "video_tip": "Three checklist cards. Carousel.",
+      "followers": 271721,
+      "id": "2114742095684731050"
+    },
+    {
+      "name": "Arvid Kahl",
+      "handle": "@arvidkahl",
+      "views": 6427,
+      "url": "https://x.com/arvidkahl/status/2114692171500527899",
+      "posted_at": "2026-10-26T12:14:37.000Z",
+      "media": "text",
+      "hook": "ICPs moving upstream - $50/mo buyers less wanted.",
+      "text": "ICPs are moving upstream. \n\nIf you feels that “paying $50 for a service every month is getting too expensive” then you can rest assured that most software business definitely don’t want you as their customer.\n\nJust as people expect to be able to build more with AI, vendors will expect their customers to churn because of it. Expect them to spend even less time catering to their weakest customer segments in the months to come.",
+      "video_tip": "Quote card. 6s.",
+      "followers": 213998,
+      "id": "2114692171500527899"
+    },
+    {
+      "name": "Tony Dinh",
+      "handle": "@tdinh_me",
+      "views": 6374,
+      "url": "https://x.com/tdinh_me/status/2114645022775902284",
+      "posted_at": "2026-10-26T09:07:16.000Z",
+      "media": "image",
+      "hook": "Buy license, get code, let agents customize ClipAudit.",
+      "text": "Thank you @kidgdzilla! 🥰\n\nBuy a license, get the code, then tell your agents to customize it however you want!",
+      "video_tip": "Screenshot from post.",
+      "followers": 206310,
+      "id": "2114645022775902284"
+    }
+  ],
+  "last24h": {
+    "end": "2026-10-27T10:37:00Z",
+    "posts": []
+  },
+  "trend_input_only": [
+    "@arvidkahl",
+    "@bentossell",
+    "@dannypostma",
+    "@dvassallo",
+    "@goodside",
+    "@indiehackers",
+    "@langchain",
+    "@levelsio",
+    "@marclou",
+    "@ollama",
+    "@simonw",
+    "@swyx",
+    "@tdinh_me",
+    "@thepatwalls",
+    "@yongfook"
+  ],
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2114627189119566266",
+      "handle": "@making_cindy",
+      "views": 2147439,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2114782299220828556",
+      "handle": "@solopribuilds",
+      "views": 840083,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2114674262179188755",
+      "handle": "@treg_ai",
+      "views": 464597,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2114527426588066075",
+      "handle": "@JackEllis",
+      "views": 212733,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2114789312432943180",
+      "handle": "@francoisdefitte",
+      "views": 210678,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2114334359834722628",
+      "handle": "@DanKulkov",
+      "views": 144625,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2114684257109254434",
+      "handle": "@viktoroddy",
+      "views": 98640,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2114679669480177795",
+      "handle": "@DanKulkov",
+      "views": 26316,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2114466720307876260",
+      "handle": "@solopribuilds",
+      "views": 25721,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2114745753034018893",
+      "handle": "@NetNetCap",
+      "views": 21687,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-10-26",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "agent",
+        "rank": 1,
+        "score": 199.9,
+        "posts": 10,
+        "authors": 8
+      },
+      {
+        "keyword": "SaaS",
+        "rank": 2,
+        "score": 197.7,
+        "posts": 9,
+        "authors": 7
+      },
+      {
+        "keyword": "Claude Code Codex",
+        "rank": 3,
+        "score": 30.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Managed Deep Agents",
+        "rank": 4,
+        "score": 15.6,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Deep Agents 0.9",
+        "rank": 5,
+        "score": 15.6,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Fable 5.5",
+        "rank": 6,
+        "score": 13.4,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Slack",
+        "rank": 7,
+        "score": 13.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "skill",
+        "rank": 8,
+        "score": 11.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI agent",
+        "rank": 9,
+        "score": 9.2,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Product Hunt",
+        "rank": 10,
+        "score": 7.9,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "lang": "en",
+  "trend_radar": {
+    "date": "2026-10-26",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-10-27T10:37:00+00:00",
+      "label24": "26.10 10:37 - 27.10 10:37 UTC",
+      "label48": "25.10 10:37 - 27.10 10:37 UTC"
+    },
+    "corpus": {
+      "posts": 40,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 18,
+        "24h": 0,
+        "trend_input": 21
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 1/10 (10%) matched trends · coincidence/other 4, visual 3, author/audience 2, trend 1",
+      "headline": "2 of 21 board hits (10%) matched 24-48 h trends. Median views: trend 53.5K vs non-trend 16.2K (mean 53.5K vs 220.3K). Watchlist: 1/1 on trend. 6 hits with video, median 121.6K vs 15.3K without.",
+      "takeaway": "Ship one pricing undercut screencast, one build-in-public receipt, and one agent skill install - those formats cleared the board on D.",
+      "stats": {
+        "all": {
+          "n": 21,
+          "trend_n": 2,
+          "trend_pct": 10,
+          "avg_trend": 53480,
+          "avg_other": 220253,
+          "median_trend": 53480,
+          "median_other": 16220,
+          "verdicts": {
+            "trend": 2,
+            "visual": 7,
+            "author/audience": 2,
+            "coincidence/other": 10
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 1,
+          "trend_pct": 100,
+          "avg_trend": 8320,
+          "avg_other": null,
+          "median_trend": 8320,
+          "median_other": null,
+          "verdicts": {
+            "trend": 1,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 1,
+          "trend_pct": 5,
+          "avg_trend": 98640,
+          "avg_other": 220253,
+          "median_trend": 98640,
+          "median_other": 16220,
+          "verdicts": {
+            "trend": 1,
+            "visual": 7,
+            "author/audience": 2,
+            "coincidence/other": 10
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 1,
+          "trend_pct": 10,
+          "avg_trend": 98640,
+          "avg_other": 454875,
+          "median_trend": 98640,
+          "median_other": 210678,
+          "verdicts": {
+            "trend": 1,
+            "visual": 3,
+            "author/audience": 2,
+            "coincidence/other": 4
+          }
+        },
+        "media": {
+          "video_n": 6,
+          "median_video": 121632,
+          "other_n": 15,
+          "median_other": 15277
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Cold email vs agent outreach",
+        "keywords": [
+          "agent"
+        ],
+        "posts_24h": 7,
+        "posts_48h": 10,
+        "views_24h": 616819,
+        "views_prev24h": 2160822,
+        "views_48h": 2777641,
+        "momentum": "up x2.19",
+        "heat_raw": 37.58,
+        "evidence": [
+          {
+            "handle": "@making_cindy",
+            "views": 2147439,
+            "url": "https://x.com/making_cindy/status/2114627189119566266",
+            "hook": "Cindy hit GitHub #1 as one open-source agent for Claude Code and Codex.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@treg_ai",
+            "views": 464597,
+            "url": "https://x.com/treg_ai/status/2114674262179188755",
+            "hook": "People-search for agents at $0.0089/lead, open source, no $600 Clay bill.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@viktoroddy",
+            "views": 98640,
+            "url": "https://x.com/viktoroddy/status/2114684257109254434",
+            "hook": "MotionSites skill: 700+ designs so agents stop shipping AI slop sites.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Open-source agent skills",
+        "keywords": [
+          "agent",
+          "skill"
+        ],
+        "posts_24h": 7,
+        "posts_48h": 10,
+        "views_24h": 616819,
+        "views_prev24h": 2160822,
+        "views_48h": 2777641,
+        "momentum": "up x2.19",
+        "heat_raw": 37.58,
+        "evidence": [
+          {
+            "handle": "@making_cindy",
+            "views": 2147439,
+            "url": "https://x.com/making_cindy/status/2114627189119566266",
+            "hook": "Cindy hit GitHub #1 as one open-source agent for Claude Code and Codex.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@treg_ai",
+            "views": 464597,
+            "url": "https://x.com/treg_ai/status/2114674262179188755",
+            "hook": "People-search for agents at $0.0089/lead, open source, no $600 Clay bill.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@viktoroddy",
+            "views": 98640,
+            "url": "https://x.com/viktoroddy/status/2114684257109254434",
+            "hook": "MotionSites skill: 700+ designs so agents stop shipping AI slop sites.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "SaaS pricing undercut",
+        "keywords": [
+          "SaaS"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 7,
+        "views_24h": 40504,
+        "views_prev24h": 538621,
+        "views_48h": 579125,
+        "momentum": "cooling x0.35",
+        "heat_raw": 20.8,
+        "evidence": [
+          {
+            "handle": "@JackEllis",
+            "views": 212733,
+            "url": "https://x.com/JackEllis/status/2114527426588066075",
+            "hook": "SaaS clone wars: Beehiiv clone gets cloned, then released for free.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@DanKulkov",
+            "views": 144625,
+            "url": "https://x.com/DanKulkov/status/2114334359834722628",
+            "hook": "New SaaS made $1000 in 1 day - build-in-public revenue video.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@marclou",
+            "views": 127850,
+            "url": "https://x.com/marclou/status/2114562534262944098",
+            "hook": "SaaS is so dead (quote of $1000/day launch).",
+            "lane": "trend_input"
+          }
+        ],
+        "heat": 55
+      },
+      {
+        "name": "Clone wars",
+        "keywords": [
+          "SaaS"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 7,
+        "views_24h": 40504,
+        "views_prev24h": 538621,
+        "views_48h": 579125,
+        "momentum": "cooling x0.35",
+        "heat_raw": 20.8,
+        "evidence": [
+          {
+            "handle": "@JackEllis",
+            "views": 212733,
+            "url": "https://x.com/JackEllis/status/2114527426588066075",
+            "hook": "SaaS clone wars: Beehiiv clone gets cloned, then released for free.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@DanKulkov",
+            "views": 144625,
+            "url": "https://x.com/DanKulkov/status/2114334359834722628",
+            "hook": "New SaaS made $1000 in 1 day - build-in-public revenue video.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@marclou",
+            "views": 127850,
+            "url": "https://x.com/marclou/status/2114562534262944098",
+            "hook": "SaaS is so dead (quote of $1000/day launch).",
+            "lane": "trend_input"
+          }
+        ],
+        "heat": 55
+      },
+      {
+        "name": "Launch and Product Hunt week",
+        "keywords": [
+          "Product Hunt"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 1,
+        "views_24h": 0,
+        "views_prev24h": 5688,
+        "views_48h": 5688,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 1.88,
+        "evidence": [
+          {
+            "handle": "@am56ay",
+            "views": 5688,
+            "url": "https://x.com/am56ay/status/2114320189340656118",
+            "hook": "Loudship live on Product Hunt - finds Reddit/Bluesky/HN demand.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 5
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Pricing is the real SaaS-is-dead story",
+        "topic": "SaaS pricing undercut",
+        "keywords": [
+          "pricing",
+          "SaaS",
+          "MRR"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Split graphic: left '$600/mo SaaS' tombstone, right '$0.0089/lead' and '$2 agent call' price tags.",
+        "angle": "Use today's pricing surge on X to reframe the SaaS-is-dead meme as a price-collapse story - real MRR receipts vs $600 seats undercut by agent-priced tools.",
+        "hook_en": "Pricing just spiked in the X keyword table - why pay $600/mo SaaS when an agent lead costs cents, and fake MRR screenshots still get dunked.",
+        "why": "X-table #1 pricing (545k sampled 24h views); outsiders DanKulkov + treg_ai carried the $600 vs $2 / $0.0089 undercut.",
+        "x_keywords": [
+          "pricing",
+          "SaaS",
+          "MRR"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Launch week without Product Hunt theater",
+        "topic": "Launch and Product Hunt week",
+        "keywords": [
+          "launch",
+          "Product Hunt",
+          "SaaS"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "Carousel: 1) Product Hunt upvote theater 2) GitHub #1 agent screenshot 3) open-source skill install.",
+        "angle": "Launch energy on X this window favored open-source agent drops over classic SaaS Product Hunt launches.",
+        "hook_en": "Launch chatter is up on X - but the post that cleared 2M views was a GitHub #1 agent for builders, not another SaaS Product Hunt badge.",
+        "why": "launch is X-table #2 (up x5.65); making_cindy 2.1M views; Product Hunt still in table and trend list.",
+        "x_keywords": [
+          "launch",
+          "Product Hunt",
+          "SaaS"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Cold email is down - agents are the new outreach",
+        "topic": "Cold email vs agent outreach",
+        "keywords": [
+          "cold email",
+          "agent"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "Screencast: cold email sequence vs agent people-search plugin pulling a lead at $0.0089.",
+        "angle": "Cold email volume on X cooled while agent-pluggable people-search went viral - show the swap.",
+        "hook_en": "Cold email chatter cooled on X this window. The viral replacement is an agent that finds leads for pennies.",
+        "why": "cold email is top-5 X keyword (down vs prev24h); treg_ai people-search outsider at 464k views.",
+        "x_keywords": [
+          "cold email"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Build in public with a day-one receipt",
+        "topic": "SaaS pricing undercut",
+        "keywords": [
+          "build in public",
+          "SaaS",
+          "MRR"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s vertical: your own day-one dashboard flash, then text card 'build in public = show the receipt'.",
+        "angle": "Steal DanKulkov's format: one SaaS day, one dollar figure, video proof - build in public without fake MRR screenshots.",
+        "hook_en": "Build in public still prints when the receipt is real - one SaaS day, one number, video proof.",
+        "why": "DanKulkov $1000-in-1-day at 144k views; build in public sits #4 on the X keyword table.",
+        "x_keywords": [
+          "build in public",
+          "SaaS",
+          "MRR"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Indie hacker starter pack vs real distribution",
+        "topic": "Launch and Product Hunt week",
+        "keywords": [
+          "indie hacker",
+          "Product Hunt",
+          "bootstrapped"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Annotated meme: Next/Tailwind/Stripe stack crossed out; cafe map + verified MRR receipt circled.",
+        "angle": "Indie hacker starter-pack posts flooded search; the posts that actually cleared views were distribution plays.",
+        "hook_en": "Indie hacker starter packs are everywhere - the posts that cleared were a VC cafe map and a bootstrapped receipt, not another Product Hunt checklist.",
+        "why": "indie hacker + Product Hunt + bootstrapped on X table; francoisdefitte 210k cafe map; johann_sath bootstrapped exit in niche search.",
+        "x_keywords": [
+          "indie hacker",
+          "Product Hunt",
+          "bootstrapped"
+        ],
+        "x_rank": 6,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Newsletter clone wars - Beehiiv echo",
+        "topic": "Clone wars",
+        "keywords": [
+          "newsletter",
+          "SaaS",
+          "Stripe"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Comic strip: Stripe bill shock -> newsletter SaaS clone -> free open-source fork.",
+        "angle": "Newsletter tooling is the concrete object inside the SaaS clone joke.",
+        "hook_en": "The SaaS clone joke keeps naming newsletter tools - Beehiiv expensive, clone cheaper, fork free, Stripe laughing.",
+        "why": "JackEllis Beehiiv clone post 212k; newsletter + Stripe + SaaS on X keyword table.",
+        "x_keywords": [
+          "newsletter",
+          "SaaS",
+          "Stripe"
+        ],
+        "x_rank": 9,
+        "source": "x-keywords"
+      },
+      {
+        "title": "The Beehiiv clone loop as micro SaaS meme",
+        "topic": "Clone wars",
+        "keywords": [
+          "SaaS",
+          "micro SaaS"
+        ],
+        "format": "meme",
+        "visual_type": "meme",
+        "visual": "Four-panel meme: expensive SaaS -> cheaper micro SaaS clone -> free clone -> laughing founder.",
+        "angle": "JackEllis clone-war joke as the race-to-zero micro SaaS story of the day.",
+        "hook_en": "Someone clones Beehiiv into a micro SaaS. Someone clones that. Someone ships it free. Race to zero is the product.",
+        "why": "JackEllis 212k views; micro SaaS + SaaS both on X keyword table; board pattern brief flagged clone wars.",
+        "x_keywords": [
+          "SaaS",
+          "micro SaaS"
+        ],
+        "x_rank": 11,
+        "source": "x-keywords"
+      },
+      {
+        "title": "MotionSites skill vs purple SaaS templates",
+        "topic": "Open-source agent skills",
+        "keywords": [
+          "skill",
+          "Claude Code Codex",
+          "SaaS",
+          "landing page"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "Carousel: generic purple landing page -> MotionSites skill install -> cinematic animated site stills.",
+        "angle": "Skill packs beat prompt hope when your agent builds the landing page.",
+        "hook_en": "Your agent keeps shipping the same purple SaaS landing page - one skill for Claude Code Codex fixes that.",
+        "why": "viktoroddy MotionSites 98k views; landing page is on the X keyword table; skill + Claude Code Codex in trend_keywords.",
+        "x_keywords": [
+          "SaaS",
+          "landing page"
+        ],
+        "x_rank": 14,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "What the SaaS-is-dead week actually measured",
+        "thesis": "Virality tracked pricing undercuts and open-source clones - not the death of software businesses. MRR screenshots still print when verified.",
+        "outline": [
+          "The meme stack",
+          "Pricing collapse ($600 vs cents)",
+          "Clone wars",
+          "What still clears 100k views",
+          "What to ship"
+        ],
+        "keywords": [
+          "SaaS",
+          "pricing",
+          "MRR",
+          "agent"
+        ],
+        "visual": "Cover: tombstone vs price tag; inline outsider view bars from the board.",
+        "why": "pricing #1 and SaaS on X table; agent #1 trend keyword; board outsiders topped 2M views.",
+        "x_keywords": [
+          "SaaS",
+          "pricing",
+          "MRR"
+        ]
+      },
+      {
+        "title": "Skill packs vs raw prompts for coding agents",
+        "thesis": "Winners bundled Claude Code Codex into installable skills and launched them as open source - not another chat demo.",
+        "outline": [
+          "GitHub #1 harness",
+          "MotionSites 700+ designs",
+          "Why skills travel",
+          "How to package yours"
+        ],
+        "keywords": [
+          "Claude Code Codex",
+          "skill",
+          "agent",
+          "launch"
+        ],
+        "visual": "Cover: terminal skill install; inline before/after landing pages.",
+        "why": "launch is X-table #2; making_cindy 2.1M + viktoroddy 98k; skill/Claude Code Codex in trend_keywords.",
+        "x_keywords": [
+          "launch"
+        ]
+      },
+      {
+        "title": "People-search is the new Clay conversation",
+        "thesis": "Agent-pluggable people-search at cents-per-lead is the distribution story under the pricing meme - cold email volume cooled while this rose.",
+        "outline": [
+          "Treg/Jev facts",
+          "Price ladder",
+          "Cold email vs agent plugin",
+          "Moats and risks"
+        ],
+        "keywords": [
+          "cold email",
+          "pricing",
+          "agent",
+          "AI agent"
+        ],
+        "visual": "Cover: price ladder $600 -> $2 -> $0.0089; inline agent plugin diagram.",
+        "why": "cold email + pricing in X top-5; treg_ai 464k; AI agent in trend_keywords.",
+        "x_keywords": [
+          "cold email",
+          "pricing"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2114746140734173378",
+        "handle": "@firecrawl",
+        "lane": "watchlist",
+        "views": 8320,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agent",
+          "Slack"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "Cold email vs agent outreach",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114627189119566266",
+        "handle": "@making_cindy",
+        "lane": "outsider",
+        "views": 2147439,
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Cold email vs agent outreach",
+        "self_quote": false,
+        "note": "followers: no data (estimate from reach >= 500K)"
+      },
+      {
+        "id": "2114782299220828556",
+        "handle": "@solopribuilds",
+        "lane": "outsider",
+        "views": 840083,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data (estimate from reach >= 500K)"
+      },
+      {
+        "id": "2114674262179188755",
+        "handle": "@treg_ai",
+        "lane": "outsider",
+        "views": 464597,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "Cold email vs agent outreach",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114527426588066075",
+        "handle": "@JackEllis",
+        "lane": "outsider",
+        "views": 212733,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "SaaS pricing undercut",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114789312432943180",
+        "handle": "@francoisdefitte",
+        "lane": "outsider",
+        "views": 210678,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114334359834722628",
+        "handle": "@DanKulkov",
+        "lane": "outsider",
+        "views": 144625,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "SaaS pricing undercut",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114684257109254434",
+        "handle": "@viktoroddy",
+        "lane": "outsider",
+        "views": 98640,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agent",
+          "skill"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "Cold email vs agent outreach",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114679669480177795",
+        "handle": "@DanKulkov",
+        "lane": "outsider",
+        "views": 26316,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "SaaS pricing undercut",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114466720307876260",
+        "handle": "@solopribuilds",
+        "lane": "outsider",
+        "views": 25721,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "SaaS"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "SaaS pricing undercut",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114745753034018893",
+        "handle": "@NetNetCap",
+        "lane": "outsider",
+        "views": 21687,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Cold email vs agent outreach",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114730117939269852",
+        "handle": "@JackEllis",
+        "lane": "outsider",
+        "views": 16220,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114726059149271438",
+        "handle": "@robj3d3",
+        "lane": "outsider",
+        "views": 15277,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114729786837017075",
+        "handle": "@DanKulkov",
+        "lane": "outsider",
+        "views": 12826,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114782509879951615",
+        "handle": "@JackEllis",
+        "lane": "outsider",
+        "views": 12707,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114798653156237325",
+        "handle": "@robj3d3",
+        "lane": "outsider",
+        "views": 12225,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114470513351221292",
+        "handle": "@ridark_eth",
+        "lane": "outsider",
+        "views": 7009,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "agent"
+        ],
+        "media": "text",
+        "followers": null,
+        "topic": "Cold email vs agent outreach",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114320189340656118",
+        "handle": "@am56ay",
+        "lane": "outsider",
+        "views": 5688,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": "Launch and Product Hunt week",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114804532463214811",
+        "handle": "@robj3d3",
+        "lane": "outsider",
+        "views": 6332,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114389087662522735",
+        "handle": "@michalmalewicz",
+        "lane": "outsider",
+        "views": 1574,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": "SaaS pricing undercut",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114629140515074131",
+        "handle": "@launch_llama",
+        "lane": "outsider",
+        "views": 1079,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": null,
+        "topic": "SaaS pricing undercut",
+        "self_quote": false,
+        "note": "followers: no data"
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-10-27T10:37:00+00:00",
+      "window_start": "2026-10-25T10:37:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "pricing",
+          "query": "\"pricing\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 545536,
+            "median": 14,
+            "top": {
+              "views": 524705,
+              "url": "https://x.com/guilleflorvs/status/2114797640713916475",
+              "handle": "@guilleflorvs",
+              "text": "Dario Amodei: some tokens Claude produces are worth a few cents, others could be worth tens of millions of dollars. His "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 140621,
+            "median": 58,
+            "top": {
+              "views": 110018,
+              "url": "https://x.com/ObinaGMI/status/2114363092737966537",
+              "handle": "@ObinaGMI",
+              "text": "A decentralized AI network needs more than computing power. It needs incentives that attract contributors, validators th"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 686157,
+            "top": {
+              "views": 524705,
+              "url": "https://x.com/guilleflorvs/status/2114797640713916475",
+              "handle": "@guilleflorvs",
+              "text": "Dario Amodei: some tokens Claude produces are worth a few cents, others could be worth tens of millions of dollars. His "
+            }
+          },
+          "change": 3.88,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.96,
+          "rank": 1
+        },
+        {
+          "keyword": "launch",
+          "query": "\"launch\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 89817,
+            "median": 103,
+            "top": {
+              "views": 27597,
+              "url": "https://x.com/spacanpanman/status/2114798942986666438",
+              "handle": "@spacanpanman",
+              "text": "$ASTS: 🚨BLUE ORIGIN ON TRACK TO RESUME NEW GLENN PAD OPS IN NOVEMBER @outerspacetoday: Jeff Bezos' Blue Origin is target"
+            }
+          },
+          "prev24": {
+            "n": 22,
+            "total": 15904,
+            "median": 54,
+            "top": {
+              "views": 12597,
+              "url": "https://x.com/gembotio/status/2114453485060247563",
+              "handle": "@gembotio",
+              "text": "$LAUNCH LAUNCH just hit $4.2M market cap after announcing the launch of a competing launchpad to Pumpfun $33K → $4.2M (1"
+            }
+          },
+          "w48": {
+            "n": 47,
+            "total": 105721,
+            "top": {
+              "views": 27597,
+              "url": "https://x.com/spacanpanman/status/2114798942986666438",
+              "handle": "@spacanpanman",
+              "text": "$ASTS: 🚨BLUE ORIGIN ON TRACK TO RESUME NEW GLENN PAD OPS IN NOVEMBER @outerspacetoday: Jeff Bezos' Blue Origin is target"
+            }
+          },
+          "change": 5.65,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.31,
+          "rank": 2
+        },
+        {
+          "keyword": "cold email",
+          "query": "\"cold email\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 20863,
+            "median": 72,
+            "top": {
+              "views": 7137,
+              "url": "https://x.com/ChoyRb/status/2114833582346969252",
+              "handle": "@ChoyRb",
+              "text": "I just compared our reply rates in 2026 vs 2020, and my learning is: cold email is so dead as a gtm strategy. I did YC i"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 35850,
+            "median": 32,
+            "top": {
+              "views": 15058,
+              "url": "https://x.com/omoalhajaabiola/status/2114478763161641145",
+              "handle": "@omoalhajaabiola",
+              "text": "Before you sleep tonight, ensure you get the cold email course. It’s the best blueprint for freelancers. Ask @MusawirRaj"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 56713,
+            "top": {
+              "views": 15058,
+              "url": "https://x.com/omoalhajaabiola/status/2114478763161641145",
+              "handle": "@omoalhajaabiola",
+              "text": "Before you sleep tonight, ensure you get the cold email course. It’s the best blueprint for freelancers. Ask @MusawirRaj"
+            }
+          },
+          "change": 0.58,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.34,
+          "rank": 3
+        },
+        {
+          "keyword": "build in public",
+          "query": "\"build in public\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9787,
+            "median": 42,
+            "top": {
+              "views": 6815,
+              "url": "https://x.com/teslanacho/status/2114739595376009635",
+              "handle": "@teslanacho",
+              "text": "build in public ❌ learn in public ✅ https://t.co/RqKLMvqQei"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 10642,
+            "median": 67,
+            "top": {
+              "views": 6671,
+              "url": "https://x.com/galileowilson/status/2114372143366787540",
+              "handle": "@galileowilson",
+              "text": "we’ll be judging based on your X profile can you walk the talk? build in public szn https://t.co/Q4r348uM6v"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 20429,
+            "top": {
+              "views": 6815,
+              "url": "https://x.com/teslanacho/status/2114739595376009635",
+              "handle": "@teslanacho",
+              "text": "build in public ❌ learn in public ✅ https://t.co/RqKLMvqQei"
+            }
+          },
+          "change": 0.92,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.7,
+          "rank": 4
+        },
+        {
+          "keyword": "MRR",
+          "query": "(MRR OR \"$MRR\" OR \"monthly recurring\") (SaaS OR startup OR revenue) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8976,
+            "median": 81,
+            "top": {
+              "views": 2868,
+              "url": "https://x.com/BrianLaManna_/status/2114712214804238553",
+              "handle": "@BrianLaManna_",
+              "text": "If you're breaking into tech sales, interviewing for your first AE role, or transitioning from a different industry - th"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 24924,
+            "median": 125,
+            "top": {
+              "views": 13186,
+              "url": "https://x.com/dinsan_me/status/2114655153836237014",
+              "handle": "@dinsan_me",
+              "text": "If you got a following and want to monetize that for monthly recurring income. We have a 35% revenue share. CommonQuant "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 33900,
+            "top": {
+              "views": 13186,
+              "url": "https://x.com/dinsan_me/status/2114655153836237014",
+              "handle": "@dinsan_me",
+              "text": "If you got a following and want to monetize that for monthly recurring income. We have a 35% revenue share. CommonQuant "
+            }
+          },
+          "change": 0.36,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.32,
+          "rank": 5
+        },
+        {
+          "keyword": "indie hacker",
+          "query": "\"indie hacker\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7402,
+            "median": 103,
+            "top": {
+              "views": 2438,
+              "url": "https://x.com/Nehakathare/status/2114769240159133925",
+              "handle": "@Nehakathare",
+              "text": "I want to #connect with more - Founders - Developers - Business owner - Indie Hacker Let's connect 🤝"
+            }
+          },
+          "prev24": {
+            "n": 21,
+            "total": 14023,
+            "median": 138,
+            "top": {
+              "views": 3477,
+              "url": "https://x.com/Sujay__Raj/status/2114428532755755496",
+              "handle": "@Sujay__Raj",
+              "text": "The indie hacker loop: -Ahmed pays $39/mo for DataFast -So he builds DataBull for $29 lifetime -Shiva makes Traks(dot)de"
+            }
+          },
+          "w48": {
+            "n": 46,
+            "total": 21425,
+            "top": {
+              "views": 3477,
+              "url": "https://x.com/Sujay__Raj/status/2114428532755755496",
+              "handle": "@Sujay__Raj",
+              "text": "The indie hacker loop: -Ahmed pays $39/mo for DataFast -So he builds DataBull for $29 lifetime -Shiva makes Traks(dot)de"
+            }
+          },
+          "change": 0.53,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.33,
+          "rank": 6
+        },
+        {
+          "keyword": "SEO",
+          "query": "(SEO OR \"search traffic\") (SaaS OR startup OR content) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5658,
+            "median": 48,
+            "top": {
+              "views": 1522,
+              "url": "https://x.com/samigrows/status/2114763211824407013",
+              "handle": "@samigrows",
+              "text": "Ranking in the USA is competitive. Make Good content, build backlinks and get ranked. Here's how you can: https://t.co/f"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 67355,
+            "median": 300,
+            "top": {
+              "views": 34718,
+              "url": "https://x.com/hridoyreh/status/2114383601970401339",
+              "handle": "@hridoyreh",
+              "text": "📂 AI SEO ┃ ┣ 📂 Search Visibility ┃ ┣ 📂 ChatGPT ┃ ┣ 📂 Google AI Mode / Overviews ┃ ┣ 📂 Claude ┃ ┣ 📂 Gemini ┃ ┗ 📂 Perplexi"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 73013,
+            "top": {
+              "views": 34718,
+              "url": "https://x.com/hridoyreh/status/2114383601970401339",
+              "handle": "@hridoyreh",
+              "text": "📂 AI SEO ┃ ┣ 📂 Search Visibility ┃ ┣ 📂 ChatGPT ┃ ┣ 📂 Google AI Mode / Overviews ┃ ┣ 📂 Claude ┃ ┣ 📂 Gemini ┃ ┗ 📂 Perplexi"
+            }
+          },
+          "change": 0.08,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.27,
+          "rank": 7
+        },
+        {
+          "keyword": "churn",
+          "query": "\"churn\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4387,
+            "median": 10,
+            "top": {
+              "views": 2062,
+              "url": "https://x.com/FPUMP_fun/status/2114758184023871820",
+              "handle": "@FPUMP_fun",
+              "text": "The pump fun game has always been rigged. They amplify some of the worst on chain actors. They don’t get paid when you h"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 12984,
+            "median": 107,
+            "top": {
+              "views": 7259,
+              "url": "https://x.com/MasonVersluis/status/2114368247692984467",
+              "handle": "@MasonVersluis",
+              "text": "This bot helped me decrease churn rate on Whop The Ultimate Operator For Whop The Whoperator Instantly connects to your "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 17371,
+            "top": {
+              "views": 7259,
+              "url": "https://x.com/MasonVersluis/status/2114368247692984467",
+              "handle": "@MasonVersluis",
+              "text": "This bot helped me decrease churn rate on Whop The Ultimate Operator For Whop The Whoperator Instantly connects to your "
+            }
+          },
+          "change": 0.34,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.47,
+          "rank": 8
+        },
+        {
+          "keyword": "Stripe",
+          "query": "\"Stripe\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4376,
+            "median": 22,
+            "top": {
+              "views": 3485,
+              "url": "https://x.com/theinformation/status/2114779169754120205",
+              "handle": "@theinformation",
+              "text": "Stripe is emerging as a powerful middleman in AI shopping, raising concerns at Visa and Mastercard. Its virtual card tec"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5183,
+            "median": 21,
+            "top": {
+              "views": 1666,
+              "url": "https://x.com/Nick_Franklin/status/2114323509128417305",
+              "handle": "@Nick_Franklin",
+              "text": "If you ever wondered if your Stripe MRR numbers are correct, or if you use ChartMogul and ever wondered why the MRR in C"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 9559,
+            "top": {
+              "views": 3485,
+              "url": "https://x.com/theinformation/status/2114779169754120205",
+              "handle": "@theinformation",
+              "text": "Stripe is emerging as a powerful middleman in AI shopping, raising concerns at Visa and Mastercard. Its virtual card tec"
+            }
+          },
+          "change": 0.84,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.8,
+          "rank": 9
+        },
+        {
+          "keyword": "Product Hunt",
+          "query": "\"Product Hunt\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4331,
+            "median": 53,
+            "top": {
+              "views": 866,
+              "url": "https://x.com/mddanishyusuf/status/2114692929113768421",
+              "handle": "@mddanishyusuf",
+              "text": "Thinking of launching on Product Hunt. What do you think, is it still the best platform to launch on? https://t.co/kexR8"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 9523,
+            "median": 81,
+            "top": {
+              "views": 5688,
+              "url": "https://x.com/am56ay/status/2114320189340656118",
+              "handle": "@am56ay",
+              "text": "🚀 TODAY IS THE DAY. After months of building, Loudship is officially LIVE on Product Hunt! I built Loudship because I wa"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 13854,
+            "top": {
+              "views": 5688,
+              "url": "https://x.com/am56ay/status/2114320189340656118",
+              "handle": "@am56ay",
+              "text": "🚀 TODAY IS THE DAY. After months of building, Loudship is officially LIVE on Product Hunt! I built Loudship because I wa"
+            }
+          },
+          "change": 0.45,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.2,
+          "rank": 10
+        },
+        {
+          "keyword": "micro SaaS",
+          "query": "\"micro SaaS\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 23,
+            "total": 3933,
+            "median": 23,
+            "top": {
+              "views": 839,
+              "url": "https://x.com/carelessdept/status/2114756597943873575",
+              "handle": "@carelessdept",
+              "text": "🚨 HEY @X ALGORITHM! 👀🚀 The next person who helps you build your dream project might be scrolling through X right now. Le"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3203,
+            "median": 78,
+            "top": {
+              "views": 457,
+              "url": "https://x.com/uriel_builds/status/2114333433782845794",
+              "handle": "@uriel_builds",
+              "text": "Hey @X algorithm, introduce me to founders shipping: - B2B SaaS - consumer apps - AI products - micro-SaaS - dev tools -"
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 7136,
+            "top": {
+              "views": 839,
+              "url": "https://x.com/carelessdept/status/2114756597943873575",
+              "handle": "@carelessdept",
+              "text": "🚨 HEY @X ALGORITHM! 👀🚀 The next person who helps you build your dream project might be scrolling through X right now. Le"
+            }
+          },
+          "change": 1.23,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.21,
+          "rank": 11
+        },
+        {
+          "keyword": "bootstrapped",
+          "query": "\"bootstrapped\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3850,
+            "median": 19,
+            "top": {
+              "views": 1541,
+              "url": "https://x.com/cafazza/status/2114869983067132125",
+              "handle": "@cafazza",
+              "text": "Didn't take VC. Didn't take debt. I bootstrapped. 🐐 https://t.co/gv15BAq0Rg"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 35532,
+            "median": 69,
+            "top": {
+              "views": 19685,
+              "url": "https://x.com/wenyanhh/status/2114377326154936695",
+              "handle": "@wenyanhh",
+              "text": "Startup 1: $15k/mo, bootstrapped edtech Startup 2: got into a16z speedrun Startup 3: building @frevana_ai, backed by a16"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 39382,
+            "top": {
+              "views": 19685,
+              "url": "https://x.com/wenyanhh/status/2114377326154936695",
+              "handle": "@wenyanhh",
+              "text": "Startup 1: $15k/mo, bootstrapped edtech Startup 2: got into a16z speedrun Startup 3: building @frevana_ai, backed by a16"
+            }
+          },
+          "change": 0.11,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 12
+        },
+        {
+          "keyword": "newsletter",
+          "query": "\"newsletter\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2219,
+            "median": 10,
+            "top": {
+              "views": 582,
+              "url": "https://x.com/creativemh/status/2114976641373864146",
+              "handle": "@creativemh",
+              "text": "If you can build a website. You can add a database If you can add a database You can add a newsletter If you can add a n"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 20306,
+            "median": 6,
+            "top": {
+              "views": 10066,
+              "url": "https://x.com/Emily_Sundberg/status/2114362054425395429",
+              "handle": "@Emily_Sundberg",
+              "text": "The Substack team sent me a cake for my four-year anniversary of Feed Me’s first newsletter. I’ve sent a newsletter almo"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 22525,
+            "top": {
+              "views": 10066,
+              "url": "https://x.com/Emily_Sundberg/status/2114362054425395429",
+              "handle": "@Emily_Sundberg",
+              "text": "The Substack team sent me a cake for my four-year anniversary of Feed Me’s first newsletter. I’ve sent a newsletter almo"
+            }
+          },
+          "change": 0.11,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.26,
+          "rank": 13
+        },
+        {
+          "keyword": "landing page",
+          "query": "\"landing page\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1703,
+            "median": 25,
+            "top": {
+              "views": 337,
+              "url": "https://x.com/utpalnadiger/status/2114883861016711670",
+              "handle": "@utpalnadiger",
+              "text": "landing page has been updated. i repeat landing page has been updated over https://t.co/OstWXAkeRn https://t.co/X1mnnH8x"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 10992,
+            "median": 47,
+            "top": {
+              "views": 3465,
+              "url": "https://x.com/lucaxyzz/status/2114401007300169958",
+              "handle": "@lucaxyzz",
+              "text": "Rate landing page https://t.co/vGQ7uA8z2Z https://t.co/b4vYFagxhf"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 12695,
+            "top": {
+              "views": 3465,
+              "url": "https://x.com/lucaxyzz/status/2114401007300169958",
+              "handle": "@lucaxyzz",
+              "text": "Rate landing page https://t.co/vGQ7uA8z2Z https://t.co/b4vYFagxhf"
+            }
+          },
+          "change": 0.15,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.2,
+          "rank": 14
+        },
+        {
+          "keyword": "solopreneur",
+          "query": "\"solopreneur\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1372,
+            "median": 15,
+            "top": {
+              "views": 593,
+              "url": "https://x.com/andrebriton/status/2114821946982666540",
+              "handle": "@andrebriton",
+              "text": "Hey X algo, . I am Andre! I’m soloentrepeneur from the the middle of the world 🇪🇨, I love to create and build MicroSaaS "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5480,
+            "median": 11,
+            "top": {
+              "views": 4627,
+              "url": "https://x.com/jonathan_aufray/status/2114359620252676098",
+              "handle": "@jonathan_aufray",
+              "text": "What it feels like to be a solopreneur. #Entrepreneur #Entrepreneurship #Solopreneur #Entrepreneurs https://t.co/Z5EYpvV"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 6852,
+            "top": {
+              "views": 4627,
+              "url": "https://x.com/jonathan_aufray/status/2114359620252676098",
+              "handle": "@jonathan_aufray",
+              "text": "What it feels like to be a solopreneur. #Entrepreneur #Entrepreneurship #Solopreneur #Entrepreneurs https://t.co/Z5EYpvV"
+            }
+          },
+          "change": 0.25,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.43,
+          "rank": 15
+        },
+        {
+          "keyword": "SaaS",
+          "query": "\"SaaS\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 659,
+            "median": 6,
+            "top": {
+              "views": 165,
+              "url": "https://x.com/AYUSHKUMAR82274/status/2114996685575537078",
+              "handle": "@AYUSHKUMAR82274",
+              "text": "Getting closer to 100 followers! I’m Ayush — Lead Developer Relations Engineer, SaaS Builder &amp; Technical Writer. Cur"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11898,
+            "median": 40,
+            "top": {
+              "views": 8985,
+              "url": "https://x.com/alexcooldev/status/2114345823127687497",
+              "handle": "@alexcooldev",
+              "text": "Yeah, we saw this happen with B2C mobile apps, and now we’re watching the same thing happen to SaaS. Users are slowly di"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 12557,
+            "top": {
+              "views": 8985,
+              "url": "https://x.com/alexcooldev/status/2114345823127687497",
+              "handle": "@alexcooldev",
+              "text": "Yeah, we saw this happen with B2C mobile apps, and now we’re watching the same thing happen to SaaS. Users are slowly di"
+            }
+          },
+          "change": 0.06,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.25,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}
