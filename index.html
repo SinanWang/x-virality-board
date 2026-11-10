@@ -594,7 +594,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
       <div class="x-logo" aria-label="X"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
       <div>
         <div class="eyebrow">公开免费实验工具</div>
-        <h1 id="brand-title">Grok Bot X Virality Score <span class="handle" id="brand-handle">· @your_handle</span></h1>
+        <h1 id="brand-title">X Virality Score <span class="handle" id="brand-handle">· 每日更新</span></h1>
         <div class="powered">面向创作者的公开运营台</div>
       </div>
     </div>
@@ -627,7 +627,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
           <div><div class="target-row-head"><span>总浏览</span><b id="views-target-copy">—</b></div><div class="target-track"><div class="target-fill" id="views-progress"></div></div></div>
         </div>
         <div class="your-day" id="your-day">
-          <div class="yd-label" id="your-day-label">你的当日 · @your_handle</div>
+          <div class="yd-label" id="your-day-label">当日数据</div>
           <div class="yd-meta" id="your-day-meta">加载中…</div>
           <div class="target-list" style="padding-top:0;margin-top:0;gap:16px">
             <div><div class="target-row-head"><span>最佳帖 vs 5k</span><b id="you-5k-copy">—</b></div><div class="target-track"><div class="target-fill" id="you-5k-progress"></div></div></div>
@@ -639,9 +639,9 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
 
     <section class="stats" id="stats" aria-label="当日指标"></section>
 
-    <div class="section-head reveal"><div><div class="section-index">03 / 你 vs 盯盘</div><h2>当日排名</h2></div><div class="section-note" id="roster-note">最佳 / 合计 · 按最佳排序</div></div>
-    <section class="panel roster-panel reveal" aria-label="你 vs 盯盘">
-      <div class="panel-label"><strong>你 /</strong> 按最佳排序</div>
+    <div class="section-head reveal"><div><div class="section-index">03 / 盯盘排名</div><h2>当日排名</h2></div><div class="section-note" id="roster-note">最佳 / 合计 · 按最佳排序</div></div>
+    <section class="panel roster-panel reveal" aria-label="盯盘当日排名">
+      <div class="panel-label"><strong>榜 /</strong> 按最佳排序</div>
       <div class="roster-list" id="day-roster"></div>
     </section>
 
@@ -702,7 +702,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
       </ul>
     </div>
     <div class="footer-row">
-      <span>只读浏览器信号台 · 随每日简报刷新 · 由 Grok Bot 驱动</span>
+      <span>公开看板 · 所有人看同一份内容 · 工作日自动刷新 · 不代发</span>
       <span class="footer-mark">Grok Bot X Virality Score</span>
     </div>
   </footer>
@@ -854,21 +854,27 @@ function renderWeekStrip(days){
 }
 function isYouEntry(e, op){
   if(!e) return false;
+  if(document.body.classList.contains('public-board')) return false;
   if(e.is_you===true) return true;
   const h=String(e.handle||'').toLowerCase();
   const oh=String((op&&op.handle)||'@your_handle').toLowerCase();
   return h===oh;
 }
+function isPublicBoard(d){return !!(d&&d.ui&&d.ui.public)}
 function applyBrand(d){
   const op=d.operator||{};
-  const handle=d.brand_handle||op.handle||'@your_handle';
-  const title=d.brand_title||'Grok Bot X Virality Score';
+  const pub=isPublicBoard(d);
+  const handle=pub?(d.brand_handle||'公开看板'):(d.brand_handle||op.handle||'@your_handle');
+  const title=d.brand_title||'X Virality Score';
   const tEl=document.getElementById('brand-title');
   const yd=document.getElementById('your-day-label');
-  if(tEl) tEl.innerHTML=`${esc(title)} <span class="handle" id="brand-handle">· ${esc(handle)}</span>`;
-  if(yd) yd.textContent=`你的当日 · ${handle}`;
-  document.title=`${title} · ${handle}`;
-  return {handle, name:op.name||'运营方', profile_url:op.profile_url};
+  const ybox=document.getElementById('your-day');
+  if(tEl) tEl.innerHTML=`${esc(title)} <span class="handle" id="brand-handle">· ${esc(pub?'每日更新':handle)}</span>`;
+  if(ybox) ybox.hidden=!!pub;
+  if(yd&&!pub) yd.textContent=`你的当日 · ${handle}`;
+  document.title=pub?title:`${title} · ${handle}`;
+  if(pub) document.body.classList.add('public-board');
+  return {handle, name:op.name||'运营方', profile_url:op.profile_url, public:pub};
 }
 function renderLeaderboard(el, entries, op){
   if(!el) return;
@@ -890,7 +896,8 @@ function renderDayRoster(list, op, youRank){
   if(note){
     const ybt=youRank?fmtBestTotal(youRank.best_views, youRank.total_views!=null?youRank.total_views:youRank.best_views):'—';
     const rk=youRank&&youRank.rank_among_watchlist!=null?`#${youRank.rank_among_watchlist}`:'—';
-    note.textContent=`你 ${rk} / ${list.length} · 最佳 / 合计 · 按最佳排序 · ${ybt}`;
+    if(document.body.classList.contains('public-board')) note.textContent=`${list.length} 个账号 · 最佳 / 合计 · 按最佳排序`;
+    else note.textContent=`你 ${rk} / ${list.length} · 最佳 / 合计 · 按最佳排序 · ${ybt}`;
   }
   el.innerHTML=list.map((r,i)=>{
     const you=isYouEntry(r,op);
@@ -1030,7 +1037,7 @@ async function boot(){
   bindCopy(document.getElementById('virals'));
   staggerCards('#virals .card');
   try{renderTrendKw(d)}catch(e){console.error(e)}
-  if(d.experiment){try{renderExp(d.experiment)}catch(e){console.error(e)}}
+  if(d.experiment&&!brand.public){try{renderExp(d.experiment)}catch(e){console.error(e)}}
   const narr=document.getElementById('virals-narrative');const narrText=d.virals_narrative||d.narrative_synthesis;if(d.trend_radar){try{renderRadar(d.trend_radar,narrText)}catch(e){console.error(e)}}else if(narrText){narr.hidden=false;narr.textContent=narrText}
   renderNoHits(normalizeNoHits(d.no_hits));
 }
